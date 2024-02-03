@@ -12,6 +12,22 @@ Den Kindergartenfreund, der uns das ganze Leben lang begleitet, gibt es allerdin
 Und dann gibt es natürlich noch all unsere Freunde in den sozialen Netzwerken, wo es für manche ein Statussymbol ist, möglichst viele Freunde zu haben. Wer viele virtuelle Freunde hat, gilt als beliebt und in. Plötzlich wird öffentlich über sehr Privates gesprochen bzw. gepostet; Dinge, die man vielleicht früher nur wenigen anvertraut hat. Andererseits ist es ja auch toll, dass man durch das Posten von Neuigkeiten immer weiß, was grade so im Leben seiner Freunde los ist, ohne dass man sich ständig sieht. Und man kann durch diese Plattformen auch alte Freunde wiederfinden und mit anderen, die weiter weg wohnen, in regelmäßigem Kontakt bleiben.
 `````
 
+`````
+
+`````
+
+`````
+Gemeinsam durch dick und dünn.
+
+Ich: Was bedeutet das deutsche Motto gemeinsam durch dick und dünn?
+Talkpal: Das deutsche Motto "Gemeinsam durch dick und dünn" bedeutet, dass man zusammen in guten und schlechten Zeiten füreinander da ist.
+
+gemeinsam = zusammen
+
+mit jmdm. durch dick und dünn gehen
+DWDS: gute und schlechte Zeiten erleben, ertragen; (gemeinsam) Höhen und Tiefen durchstehen
+`````
+
 # 1_03.mp3 Modul 2 Aufgabe 2c
 <audio controls loop src="LB/1_03.mp3"></audio>
 
