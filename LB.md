@@ -9,7 +9,7 @@ Viele Leute haben auch spezielle Freunde für bestimmte Aktivitäten. So spielt 
 
 Den Kindergartenfreund, der uns das ganze Leben lang begleitet, gibt es allerdings nicht mehr so oft. Ist unsere Gesellschaft dafür zu schnelllebig geworden? Freunde begleiten uns oft nur durch bestimmte Lebensphasen. Beim Übergang von einer in die nächste Phase kommt es häufig auch zum Austausch der Freunde. So trennen sich die Wege oft nach dem Ende der Schulzeit, wenn unterschiedliche Ausbildungswege eingeschlagen werden oder man wegen des Studiums in eine andere Stadt zieht.
 
-Und dann gibt es natürlich noch all unsere Freunde in den sozialen Netzwerken, wo es für manche ein Statussymbol ist, möglichst viele Freunde zu haben. Wer viele virtuelle Freunde hat, gilt als beliebt und in. Plötzlich wird öffentlich über sehr Privates gesprochen bzw. gepostet; Dinge, die man vielleicht früher nur wenigen anvertraut hat. Andererseits ist es ja auch toll, dass man durch das Posten von Neuigkeiten immer weiß, was grade so im Leben seiner Freunde los ist, ohne dass man sich ständig sieht. Und man kann durch diese Plattformen auch alte Freunde wiederfinden und mit anderen, die weiter weg wohnen, in regelmäßigem Kontakt bleiben.
+Und dann gibt es natürlich noch all unsere Freunde in den sozialen Netzwerken, wo es für manche ein Statussymbol ist, möglichst viele Freunde zu haben. Wer viele virtuelle Freunde hat, gilt als beliebt und in. Plötzlich wird öffentlich über sehr Privates gesprochen bzw. gepostet; Dinge, die man vielleicht früher nur wenigen anvertraut hat. Andererseits ist es ja auch toll, dass man durch das Posten von Neuigkeiten immer weiß, was gerade so im Leben seiner Freunde los ist, ohne dass man sich ständig sieht. Und man kann durch diese Plattformen auch alte Freunde wiederfinden und mit anderen, die weiter weg wohnen, in regelmäßigem Kontakt bleiben.
 `````
 
 `````
@@ -26,6 +26,10 @@ gemeinsam = zusammen
 
 mit jmdm. durch dick und dünn gehen
 DWDS: gute und schlechte Zeiten erleben, ertragen; (gemeinsam) Höhen und Tiefen durchstehen
+`````
+
+`````
+dies und das = this and that
 `````
 
 # 1_03.mp3 Modul 2 Aufgabe 2c
