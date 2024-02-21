@@ -1,7 +1,7 @@
 # 1_02.mp3 Kapitel 1 Modul 2 Aufgabe 2a
 <audio controls loop src="LB/1_02.mp3"></audio>
 
-`````
+`````de
 Gemeinsam durch dick und dünn – gute Freunde zu haben, ist vielen Menschen wichtig. Ein guter Freundeskreis macht uns selbstbewusst, psychisch stabil und optimistisch, stärkt unser Herz-Kreislaufsystem und die Abwehrkräfte. Freundschaften sind aber ganz individuell und kulturell verschieden. In der deutschen Sprache unterscheiden wir zum Beispiel zwischen Freunden und Bekannten.
 
 Bekannte trifft man eher zufällig. Eventuell verabredet man sich auch mal auf einen Kaffee, spricht über dies und das, zum Beispiel über den nächsten Urlaub, aber eher nicht über Probleme. Dafür haben wir unsere Freunde.
@@ -12,8 +12,23 @@ Den Kindergartenfreund, der uns das ganze Leben lang begleitet, gibt es allerdin
 Und dann gibt es natürlich noch all unsere Freunde in den sozialen Netzwerken, wo es für manche ein Statussymbol ist, möglichst viele Freunde zu haben. Wer viele virtuelle Freunde hat, gilt als beliebt und in. Plötzlich wird öffentlich über sehr Privates gesprochen bzw. gepostet; Dinge, die man vielleicht früher nur wenigen anvertraut hat. Andererseits ist es ja auch toll, dass man durch das Posten von Neuigkeiten immer weiß, was gerade so im Leben seiner Freunde los ist, ohne dass man sich ständig sieht. Und man kann durch diese Plattformen auch alte Freunde wiederfinden und mit anderen, die weiter weg wohnen, in regelmäßigem Kontakt bleiben.
 `````
 
+`````en
+Together through thick and thin – having good friends is important to many people. A good circle of friends makes us self-confident, psychologically stable and optimistic, and strengthens our cardiovascular system and immune system. But friendships are very individual and culturally different. In the German language, for example, we differentiate between friends and acquaintances.
+
+You tend to meet people you know by chance. Maybe you can meet up for coffee and talk about this and that, for example about your next vacation, but not about problems. That's why we have our friends.
+Many people also have special friends for certain activities. So you might play tennis regularly with one friend and go to the cinema with another. If other interests and hobbies are developed, other friends usually come along too. And some friends you see several times a week, while others you only see every six months.
+
+However, the kindergarten friend who accompanies us throughout our lives is no longer around that often. Has our society become too fast-paced for that? Friends often only accompany us through certain phases of life. When moving from one phase to the next, friends often exchange ideas. The paths often diverge after the end of school, when different training paths are taken or you move to another city to study.
+
+And then of course there are all our friends on social networks, where for some it is a status symbol to have as many friends as possible. Anyone who has a lot of virtual friends is considered popular and in. Suddenly very private things are being talked about or posted publicly; Things that were previously only entrusted to a few people. On the other hand, it's great that by posting news you always know what's going on in your friends' lives without seeing each other all the time. And you can also use these platforms to find old friends and stay in regular contact with others who live further away.
 `````
 
+`````
+psychisch 心理上的，精神的
+stabil [ʃta`bi:l,] 稳定的，稳固的
+zufällig 'zu 偶然的，意外的
+eventuell 也许发生的，可能发生的
+sich verabreden 约好见面
 `````
 
 `````
@@ -29,13 +44,23 @@ DWDS: gute und schlechte Zeiten erleben, ertragen; (gemeinsam) Höhen und Tiefen
 `````
 
 `````
+psychisch stabil
+
+Tipps zur psychischen Gesundheit: Stabil bleiben - die psychische Widerstandskraft verbessern!
+心理健康小贴士：保持稳定——提高心理承受能力！
+
+Je stabiler die Psyche eines Menschen ist, desto leichter kann er mit stressigen oder beunruhigenden Situationen umgehen.
+一个人的心理越稳定，他们就越容易应对有压力或令人担忧的情况。
+`````
+
+`````
 dies und das = this and that
 `````
 
 # 1_03.mp3 Modul 2 Aufgabe 2c
 <audio controls loop src="LB/1_03.mp3"></audio>
 
-`````
+`````de
 Wir wollten auch gern eure Meinung zum Thema „Freundschaft“ wissen und haben ein paar Anrufe gesammelt.
 
 Hallo, ich heiße Mira und komme aus Berlin. Also, meine beste Freundin kenne ich schon seit über zwanzig Jahren. Wir sind schon zusammen zur Grundschule gegangen. Wir können über alles reden,über unsere Wünsche und unsere Probleme. Manchmal haben wir natürlich auch unterschiedliche Meinungen. Aber mit  einer guten Freundin sollte man sich auch streiten können, ohne dass die Freundschaft zerbricht. Wichtig ist, dass man dann wieder zusammen lachen kann. Vor einem halben Jahr ist Laura leider aus beruflichen Gründen nach Hamburggezogen. Jetzt sehen wir uns natürlich nur noch selten. Aber wir skypen alle zwei Tage, so wissen wir immer noch,  was im Leben der anderen los ist.
@@ -44,14 +69,14 @@ Hallo, ich heiße Mira und komme aus Berlin. Also, meine beste Freundin kenne ic
 # 1_04.mp3
 <audio controls loop src="LB/1_04.mp3"></audio>
 
-`````
+`````de
 Ja, also ich bin der Felix. Natürlich hat das Internet mit seinen Netzwerken viel verändert. Also, ich schaue schon jeden Tag mehrmals auf meine Facebookseite, was so los ist. Dass die 200 Leute da nicht alle enge Freunde sind, ist doch total klar. Aber man kann einfach mit vielen Leuten in Kontakt sein und auf dem Laufenden bleiben. Ich habe eigentlich nur drei wirklich enge Freunde. Matti kenne ich schon seit meiner Kindheit. Jakob habe ich an der Uni kennengelernt und Elias ist wie ich im Volleyballverein. Auf diese drei kann ich mich echt verlassen, egal was passiert, sie sind da. Wir helfen uns, wo wir können. Das ist wichtig. Und wir sehen uns oft, nicht nur online. Da aber auch.
 `````
 
 # 1_05.mp3
 <audio controls loop src="LB/1_05.mp3"></audio>
 
-`````
+`````de
 Mein Name ist Julia Gantner und ich wohne im Moment in Potsdam. Im Gegensatz zur Familie kann man sich Freunde aussuchen. Zu meinen Freunden aus der Schulzeit habe ich nicht mehr viel Kontakt. Meine jetzigen Freunde habe ich eigentlich alle im Job kennengelernt. Das Wichtigste bei einer Freundschaft ist für mich, dass man sich respektiert und toleriert, wenn einer mal eine andere Meinung hat. Man muss sich vertrauen können und ich finde es wichtig, dass man immer ehrlich zueinander ist.
 
 Da haben wir ja ganz verschiedene Aspekte zu unserem Tagesthema gehört. Und bevor es weitergeht, erst mal wieder ein bisschen Musik von den …
@@ -60,28 +85,28 @@ Da haben wir ja ganz verschiedene Aspekte zu unserem Tagesthema gehört. Und bev
 # 1_06.mp3 Modul 3 Aufgabe 1b
 <audio controls loop src="LB/1_06.mp3"></audio>
 
-`````
+`````de
 Wenn ich an Helden denke, dann fallen mir sofort Persönlichkeiten wie Albert Einstein oder Mahatma Gandhi ein. Für mich sind Helden Menschen, die etwas Großartiges geleistet haben. Das kann eine Entdeckung oder eine Erfindung sein; etwas, was unser Leben revolutioniert bzw. vereinfacht hat. Aber auch Leute, die anderen Menschen in großer Not geholfen haben oder die sich für andere eingesetzt haben, sind für mich Helden. Ein Held ist meiner Meinung nach wirklich nur jemand, der eine große Tat vollbracht hat.
 `````
 
 # 1_07.mp3
 <audio controls loop src="LB/1_07.mp3"></audio>
 
-`````
+`````de
 Also, ich glaube, Helden sind in unserer Gesellschaft nur noch diejenigen, die von den Medien anerkannt und präsentiert werden. Ich habe jedenfalls selten erlebt, dass im privaten Kreis oder in der Nachbarschaft jemand für seinen selbstlosen Einsatz gelobt wurde, z. B. für seine ehrenamtliche Tätigkeit beim Roten Kreuz oder einem ähnlichen Verein. Aber unser Respekt sollte grade diesen „Helden im Alltag“ gehören, auch wenn sie es nicht in die Zeitung geschafft haben oder ins Fernsehen. Für mich ist auch jemand ohne diese gesellschaftliche Anerkennung ein Held. Ein Held braucht meiner Meinung nach kein Publikum.
 `````
 
 # 1_08.mp3
 <audio controls loop src="LB/1_08.mp3"></audio>
 
-`````
+`````de
 Wenn ich an Helden denke, dann fallen mir sofort die Hauptfiguren aus Geschichten, Legenden, Sagen oder Filmen ein, die meist über Kräfte verfügen, die weit über die eines normalen Menschen hinausgehen. Nur dadurch waren sie zu Heldentaten fähig, die ihnen Ruhm und Anerkennung eingebracht haben. Ich denke da z. B. an Jeanne d’Arc. Das war eine Heldin! Heute wird die Bezeichnung „Held“ zu schnell verwendet. Die Heldentat ist heute oft eine ganz gewöhnliche Tat.
 `````
 
 # 1_09.mp3 Modul 4 Aufgabe 3
 <audio controls loop src="LB/1_09.mp3"></audio>
 
-`````
+`````de
 Guten Morgen, liebe Hörerinnen und Hörer. Ob Sie es glauben oder nicht: Glück und Zufriedenheit lassen sich messen. Zum zweiten Mal wurde der Glücksatlas erstellt, der entscheidende Zahlen und Daten zur Zufriedenheit der Deutschen offenlegt. Das Ergebnis lässt sich leicht zusammenfassen: Wir Deutschen sind glücklicher geworden.
 Wir wollten das Ergebnis überprüfen und haben uns auf der Straße umgehört. Wir wollten von Passanten wissen:
 Sind Sie zurzeit glücklich? Hier die Antworten:
@@ -92,35 +117,35 @@ Tja, also, ich bin seit einem Jahr wieder richtig glücklich. Ich bin alleinerzi
 # 1_10.mp3 Nummer 2
 <audio controls loop src="LB/1_10.mp3"></audio>
 
-`````
+`````de
 Ja, hallo, ich bin Thomas. Zurzeit geht bei mir alles schief. Ich bin noch in der Ausbildung und diese ganze Theorie nervt mich einfach. Ich habe gedacht, dass man nach der Schule endlich ins Arbeitsleben starten kann. Aber genau das Gegenteil ist der Fall: wieder lernen, nichts als lernen. Ich habe dazu einfach keine Lust mehr. Aber mein Ausbilder hat gesagt, dass ich ohne die Theorie in der Berufsschule keinen Abschluss bekomme und dass ich mich mehr anstrengen muss. Also, was soll ich machen?
 `````
 
 # 1_11.mp3 Nummer 3
 <audio controls loop src="LB/1_11.mp3"></audio>
 
-`````
+`````de
 Also, ich bin Anne und bin gerade richtig glücklich. Ich studiere seit drei Semestern Medizin. Das ist das, was ich schon immer wollte. Ich hatte Riesenglück, einen Studienplatz zu bekommen, denn die Anzahl der Plätze ist begrenzt. Dass ich sogar in Berlin studieren kann, ist super. Die Stadt gefällt mir unheimlich gut. Die Miete ist zwar nicht so billig, aber man hat dafür jede Menge Kultur. Außerdem liegt Berlin sehr günstig: Mit dem Zug brauche ich nur zwei Stunden zu meinen Eltern.
 `````
 
 # 1_12.mp3 Nummer 4
 <audio controls loop src="LB/1_12.mp3"></audio>
 
-`````
+`````de
 Da fragen Sie den Richtigen! Ich bin alles andere als glücklich. Ich habe vor zwei Jahren meinen Arbeitsplatz verloren, seitdem suche ich eine neue Arbeit. Aber in meinem Alter ist das überhaupt nicht einfach. Viele Firmen wollen am liebsten junge Leute mit viel Erfahrung. Aber wie soll das gehen? Ich verstehe nicht, warum man älteren Leuten keine Chance gibt? Die Arbeitsagentur hat gesagt, dass ich eine Weiterbildung machen soll. Aber in meinem Alter noch mal die Schulbank drücken? Also, ich weiß nicht …
 `````
 
 # 1_13.mp3 Nummer 5
 <audio controls loop src="LB/1_13.mp3"></audio>
 
-`````
+`````de
 Ich freue mich, dass Sie mich ansprechen. Ich bin nämlich schon 70 und das hohe Alter hat ja bekanntlich nicht den allerbesten Ruf. Die meisten Menschen denken da eher an Stillstand, Rückzug und Verlust. Das kann ich aber gar nicht verstehen. Ich bin noch sehr aktiv, reise gern, passe auf meine Enkel auf und gehe meinen Hobbys nach. Ich kann also sagen: Ja, ich bin glücklich. Und ich glaube, das liegt daran, dass man als alter, erfahrener Mensch das Leben positiver sieht.
 `````
 
 # 1_14.mp3 Kapitel 2 Modul 1 Aufgabe 1a
 <audio controls loop src="LB/1_14.mp3"></audio>
 
-`````
+`````de
 Maria: Anna? Das ist aber eine Überraschung! Was machst du denn hier?
 Anna: Hallo Maria! Ich war gerade in der Nähe einkaufen und dachte, ich komm’ mal kurz bei dir vorbei und sehe mir deine neue Wohnung an. Oder stör’ ich?
 Maria: Nö, eigentlich nicht, aber wenn ich gewusst hätte, dass du kommst, dann hätte ich doch aufgeräumt. Hier stehen noch so viele Kartons herum – ich habe leider heute noch nicht mit dem Auspacken begonnen … Und die leeren Kartons muss ich auch noch zerreißen – sonst passen sie nicht in die Mülltonnen. Weißt du, die letzten zwei Tage bin ich nur hin- und hergelaufen. Heute Vormittag habe ich dann einfach mal nichts gemacht! Na ja, jetzt komm erst mal rein!
@@ -135,17 +160,10 @@ Maria: Hast du Lust auf einen Kaffee?
 Anna: Ja, gern. Erzähl doch mal: Wie hast du die Wohnung eigentlich gefunden? …
 `````
 
-# 1_15.mp3 Modul 1 Aufgabe 2a
-<audio controls loop src="LB/1_15.mp3"></audio>
-
-`````
-ansehen, aufräumen, ausziehen, beginnen, bezahlen, einkaufen, entscheiden, erzählen, gefallen, herlaufen, herumstehen, hinlaufen, reinkommen, verstehen, vorbeikommen, zerreißen
-`````
-
 # 1_16.mp3 Modul 2 Aufgabe 3
 <audio controls loop src="LB/1_16.mp3"></audio>
 
-`````
+`````de
 Moderator: Ich begrüße Sie ganz herzlich zu unserer Sendung Brisant, auch heute wieder mit einem aktuellen Thema: „Leben auf der Straße“. Bei mir im Studio Klaus Mahlke und Andreas Huber. Klaus, wie lange leben Sie schon auf der Straße?
 Klaus: Ja, so seit ungefähr fünf Jahren.
 Moderator: Wie kam es denn dazu?
@@ -176,28 +194,28 @@ Moderator: Ich danke Ihnen beiden für das Gespräch und wünsche Ihnen alles Gu
 # 1_17.mp3 Modul 4 Aufgabe 3
 <audio controls loop src="LB/1_17.mp3"></audio>
 
-`````
+`````de
 Konstantin: Ich bin von zu Hause ausgezogen, als ich 18 Jahre alt war, also vor vier Jahren. Zuerst hatte ich eine kleine Einzimmerwohnung, aber da hab’ ich mich oft allein gefühlt. Also hab’ ich mir ein Zimmer in einer WG gesucht. Jetzt wohne ich in der Nähe der Universität und hab’ drei Mitbewohner. Natürlich gibt es manchmal Streit ums Putzen oder Einkaufen, aber im Großen und Ganzen verstehen wir uns wirklich gut und haben viel Spaß miteinander. Ich bin der Meinung, dass es wichtig ist, so früh wie möglich zu lernen, auf eigenen Beinen zu stehen, sein eigenes Leben zu leben und unabhängig zu sein. Außerdem kann ich endlich machen, was ich will, niemand kontrolliert mich und diese Freiheit bedeutet mir viel. Und bezahlbar ist so ein WG-Zimmer auch.
 `````
 
 # 1_18.mp3
 <audio controls loop src="LB/1_18.mp3"></audio>
 
-`````
+`````de
 Isabell: Solange ich noch in der Ausbildung bin, bleibe ich bei meinen Eltern. Letztes Jahr habe ich eine Banklehre angefangen. Ich verdiene zwar nicht so schlecht, aber wenn ich ausziehen würde, müsste ich auf mein Auto verzichten, weil eine eigene Wohnung einfach zu teuer ist. Den Urlaub mit meinen Freunden könnte ich mir wahrscheinlich auch nicht mehr leisten. Und eigentlich finde ich es ganz praktisch, dass ich mich um nichts kümmern muss. So steht jeden Tag ein Essen auf dem Tisch und für saubere Wäsche ist auch gesorgt. Trotzdem versuche ich, ein bisschen Geld zu sparen für meine spätere Wohnung.
 `````
 
 # 1_19.mp3
 <audio controls loop src="LB/1_19.mp3"></audio>
 
-`````
+`````de
 Tobi: Bei meinen Eltern hat es mir ganz gut gefallen und ich hatte gar nicht vor auszuziehen. Aber als ich Christina kennengelernt habe, wollte ich am liebsten immer mit ihr zusammen sein. Also war sie ständig bei uns, was meine Eltern nach einer Weile ziemlich gestört hat. Die Konsequenz war, dass ich ausgezogen bin und wir uns zusammen eine Wohnung gesucht haben. Sie ist zwar klein, aber gemütlich. Und ich kann immer mit meiner Freundin zusammen sein, ohne dass meine Mutter uns kontrolliert. Aber wahrscheinlich sind meine Eltern auch ganz froh, dass endlich alle Kinder aus dem Haus sind und sie ihre Ruhe haben.
 `````
 
 # 1_20.mp3 Kapitel 3 Modul 2 Aufgabe 1b
 <audio controls loop src="LB/1_20.mp3"></audio>
 
-`````
+`````de
 Moderator: Guten Abend, liebe Zuhörerinnen und Zuhörer. In unserer Reihe „Rundum gesund“ kommen wir heute zu unserem zweiten Beitrag mit dem Thema Lebensmittel. Dazu haben wir Herrn Dr. Lözl bei uns, der sich als Ernährungswissenschaftler schon seit Längerem mit dem Ess- und Einkaufsverhalten der Deutschen beschäftigt. Guten Abend, Herr Lözl.
 Herr Lözl: Guten Abend.
 Moderator: Herr Lözl, die Deutschen und Ihre Ernährungsgewohnheiten … dazu sind unzählige Studien und Statistiken veröffentlicht worden, die aber kein einheitliches Bild ergeben. Was meinen Sie dazu?
@@ -230,7 +248,7 @@ Herr Lözl: Ja, auf jeden Fall. Ich möchte als Erstes auf eine Aktion im Intern
 # 1_21.mp3 Modul 2 Aufgabe 2b
 <audio controls loop src="LB/1_21.mp3"></audio>
 
-`````
+`````de
 Sie hören nun ein Gespräch in einer Wohngemeinschaft. Lesen Sie dazu die Aussagen 1 bis 7. Wählen Sie: Welche Aussage ist falsch? Welche Aussage ist richtig?
 Hannes: Na, Thorsten? Was machste denn gerade?
 Thorsten: Hallo Hannes! Ich hab’ grade eine Aktion zum Thema Essen im Internet recherchiert.
@@ -260,7 +278,7 @@ Hannes: Ey, den kenn’ ich aus dem Fernsehen, zeig mal …
 # 1_22.mp3 Modul 4 Aufgabe 3
 <audio controls loop src="LB/1_22.mp3"></audio>
 
-`````
+`````de
 Moderator: Ticken Sie richtig, liebe Hörerinnen und Hörer? Ihre innere Uhr kennt die Antwort. Sie gibt den Takt an, mit dem wir am besten durch den Tag kommen. Alles hat seine Zeit. Auch im Job. Nach unserer „inneren Uhr“ zu leben, gibt optimale Energie und hält uns auf Dauer gesund, denn es entsteht weniger Stress. Jetzt wurde der Biorhythmus von Menschen untersucht, die mehr mit dem Kopf als mit dem Körper arbeiten. Heraus kamen Empfehlungen für jede Stunde des Job- oder Unialltags, die für Frühaufsteher und Nachtmenschen gleichermaßen gelten. Bei mir im Studio ist Frau Dr. Baumann, eine Expertin in Sachen Biorhythmus. Frau Dr. Baumann, was ist denn die ideale Zeit, um den Tag zu beginnen?
 Frau Dr. Baumann: Die ideale Zeit zum Aufstehen ist um sieben Uhr. Der Körper wird wach, braucht aber noch eine Stunde, um in Schwung zu kommen. Duschen, frühstücken, zu Fuß zur Arbeit gehen. Aber immer schön langsam: Körperliche Höchstleistungen sollte man lieber auf den Feierabend verschieben.
 Moderator: Und wann beginne ich am besten meinen Arbeitstag?
@@ -279,7 +297,7 @@ Moderator: Vielen Dank, Frau Dr. Baumann, für all diese interessanten und nütz
 # 1_23.mp3 Kapitel 4 Modul 1 Aufgabe 1b
 <audio controls loop src="LB/1_23.mp3"></audio>
 
-`````
+`````de
 Über Stress zu jammern gehört zwar heute zum guten Ton, aber gleichzeitig haben wir heute so viel Freizeit wie nie zuvor. Was also tun wir mit dieser wertvollen Zeit? Die Möglichkeiten sind ja überaus vielfältig. Sogar so vielfältig, dass viele Leute auch in der Freizeit wieder Stress haben, den sogenannten Freizeitstress.
 Man kann allerdings feststellen, dass Männer und Frauen bei ihrer Freizeitgestaltung unterschiedliche Akzente setzen. So verbringen viele Männer ihre Freizeit am liebsten mit ganz intensiver Mediennutzung, also hauptsächlich mit Fernsehen und Computer. Frauen wiederum legen ein stärkeres Gewicht auf soziale Kontakte und Unterhaltung: mit Besuchen, Gesprächen im Freundeskreis sowie kulturellen Aktivitäten wie Kino, Theater und Konzerten.
 Wir haben uns gefragt: Wie ist das mit Ihrer Freizeitgestaltung? Was machen Sie in Ihrer freien Zeit?
@@ -290,7 +308,7 @@ Ah, da haben wir ja auch schon die ersten Anrufer in der Leitung! Das ging ja sc
 # 1_24.mp3 Modul 1 Aufgabe 1c und d
 <audio controls loop src="LB/1_24.mp3"></audio>
 
-`````
+`````de
 Matti: Hallo, ich heiße Matti Kelk. Ja, was mache ich in meiner Freizeit? Auf jeden Fall weniger, als ich mir immer vornehme. Eigentlich würde ich gern mehr unternehmen, öfter ins Kino gehen oder auf Konzerte. Aber ich arbeite sehr viel und meistens bin ich dann abends nach der Arbeit einfach zu müde. Dann liege ich auf dem Sofa rum und sehe fern.
 A: Dabei kann man sich doch super ausruhen, oder?
 Matti: Na ja. Manchmal kommen ja gute Filme, aber meistens zappe ich hin und her und sehe irgendeinen Mist. Und dann ärgere ich mich immer und bin schlecht gelaunt, dass ich nicht früher ausgeschaltet habe, denn Entspannung ist das ja auch nicht. Eigentlich sollte ich wirklich mehr Sport machen, aber im Moment schaffe ich das nur selten, manchmal am Wochenende. Aber da besuche ich auch oft meine Eltern.
@@ -302,7 +320,7 @@ A: Danke, Matti, für deinen Anruf. Und jetzt haben wir Franka am Telefon.
 # 1_25.mp3
 <audio controls loop src="LB/1_25.mp3"></audio>
 
-`````
+`````de
 Franka Meier: Ja, hallo. Ich bin Franka Meier. Mein liebstes Hobby hat mit Tieren zu tun. Ich gehe dreimal in der Woche ins Tierheim und helfe dort mit und gehe mit den Hunden spazieren. Das macht mir wahnsinnig viel Spaß und ist ein schöner Ausgleich. Ansonsten verbringe ich einen großen Teil meiner Freizeit im Internet und schaue, was bei meinen Freunden so los ist. Natürlich könnte ich in dieser Zeit auch was Sinnvolleres machen, aber mir gefällt’s. Oft surfe ich aber auch nur so rum. Oder ich spiele irgendwelche Computerspiele. Ich kann mich da echt am besten entspannen, besonders wenn es draußen kalt und ungemütlich ist.
 A: Ah, das kenne ich gut. Man merkt oft gar nicht, wie die Zeit vergeht.
 Franka Meier: Ja, das stimmt. Bei besserem Wetter mache ich natürlich mehr, gehe raus – zum Eisessen oder so. Im Sommer gehe ich auch oft ins Schwimmbad oder treffe meine Freunde im Park.
@@ -312,7 +330,7 @@ A: Dann mach das doch gleich mal, Franka. Die Sonne scheint! Und wen haben wir j
 # 1_26.mp3
 <audio controls loop src="LB/1_26.mp3"></audio>
 
-`````
+`````de
 Aaron Holzmann: Hi, ich heiße Aaron Holzmann. Also, wenn ich frei hab’, dann gehe ich am liebsten ins Kino. Ich bin ein absoluter Filmfan und würde auch gern beruflich was mit Film machen. Im Moment studiere ich noch. Mal sehen, was dann kommt. Ansonsten bin ich einfach gern zu Hause, wenn ich nicht gerade an der Uni bin, jobbe oder lernen muss. Ich hasse Freizeitstress, ich will nicht ständig irgendwas machen. Zu Hause sehe ich dann natürlich auch oft Filme.
 A: Das hört sich doch toll an.
 Aaron Holzmann: Ja, aber meine Freundin will, dass wir mehr Sport zusammen machen und öfter verreisen, auch mal am Wochenende. Sie kann sich einfach am besten entspannen, wenn sie Sport macht. Da kommt es natürlich manchmal zum Streit. Aber ich bemühe mich! Ich weiß ja auch, dass Sportmachen gesünder ist, als auf dem Sofa zu liegen. Jetzt machen wir gerade einen Tenniskurs zusammen.
@@ -322,7 +340,7 @@ A: Klingt gut. Dann noch viel Spaß dabei, Aaron. Und wir begrüßen die nächst
 # 1_27.mp3
 <audio controls loop src="LB/1_27.mp3"></audio>
 
-`````
+`````de
 Ulrike Falkner: Hallo. Also, mein Name ist Ulrike Falkner und ich habe ganz schön viele Hobbys, aber leider nie genügend Zeit für alle. Ich fotografiere gern und besuche deshalb auch Kurse. Ich will noch bessere Fotos machen. Außerdem gehe ich gern wandern und mache Yoga. Am Wochenende gehe ich oft in Ausstellungen oder ins Theater.
 A: Das ist aber eine sehr aktive Freizeitgestaltung.
 Ulrike Falkner: Stimmt. Und am liebsten mache ich etwas mit meiner Familie, also alle zusammen. Aber meine Kinder haben meistens keine Lust. Sie wollen lieber ihre Freunde treffen und chillen, was im Klartext heißt, nichts machen. Toll ist aber, dass wir vor einem halben Jahr unseren Fernseher verschenkt haben. Und seitdem machen wir viel mehr zusammen, auch mit den Kindern. Besonders gerne gehen wir zusammen ins Kino. Da kann ich dann zwar nicht immer die Filme sehen, die mir gefallen. Aber wir machen etwas gemeinsam, das ist die Hauptsache.
@@ -332,14 +350,14 @@ A: Vielen Dank, Ulrike. Jetzt machen wir ein bisschen Musik und danach haben wir
 # 1_28.mp3 Modul 3 Aufgabe 1d
 <audio controls loop src="LB/1_28.mp3"></audio>
 
-`````
+`````de
 Achtung, liebe Gäste in unserem Freizeitparadies, wir haben eine Durchsage für Sie. Der neunjährige Lukas wird von seinen Freunden gesucht. Lukas, wenn du diese Durchsage hörst, komm bitte zur Snackbar neben dem großen Schwimmbecken mit der Rutsche. Ich wiederhole: Lukas, komm bitte zur Snackbar, deine Freunde warten dort auf dich.
 `````
 
 # 1_29.mp3 Modul 4 Aufgabe 5
 <audio controls loop src="LB/1_29.mp3"></audio>
 
-`````
+`````de
 A: Schau!
 B: Was?
 A: Da kommt er!
@@ -364,7 +382,7 @@ D: Ja! Und zerstrittene Ehepaare konnten sich auch nicht einfach scheiden lassen
 # 1_30.mp3 Kapitel 5 Modul 1 Aufgabe 2
 <audio controls loop src="LB/1_30.mp3"></audio>
 
-`````
+`````de
 N: Guten Morgen, liebe Hörerinnen und Hörer. Wie Sie vielleicht schon wissen, hat an der Volkshochschule das neue Semester begonnen. Seit einer Woche kann man sich für viele interessante Kurse anmelden. Ich habe heute drei Gäste im Studio, die ihren Kurs bereits gefunden haben und ein- bis zweimal in der Woche die Schulbank drücken. Aber vielleicht stellen sich unsere Gäste erst einmal kurz selbst vor:
 N: Hm, tja, guten Tag, ich bin Hanna, ich bin 15 Jahre alt und noch Schülerin.
 N: Mein Name ist Else Werner. Ich bin Rentnerin und 72 Jahre alt.
@@ -381,7 +399,7 @@ N: Das scheint ein interessanter Kurs zu sein.
 # 1_31.mp3
 <audio controls loop src="LB/1_31.mp3"></audio>
 
-`````
+`````de
 N: Und Sie, Frau Werner? Welchen Kurs haben Sie gewählt?
 N: Wissen Sie, ich wundere mich über mich selbst. Früher habe ich nämlich gedacht, einen Computer will ich nicht. Wozu auch? So ein Gerät kostet nur Zeit. Aber ich habe meine Meinung mittlerweile geändert. Ich lese nämlich gerne Zeitschriften und in vielen Artikeln gibt es Links, die auf das Internet verweisen. Ich konnte da nie nachschauen. Das hat mich immer geärgert.
 N: Und das haben Sie nun gelernt?
@@ -393,7 +411,7 @@ N: Nun, das hoffe ich sehr. Einen Computer zu bedienen ist gar nicht so schwer u
 # 1_32.mp3
 <audio controls loop src="LB/1_32.mp3"></audio>
 
-`````
+`````de
 N: Und unsere Jüngste in der Runde ist Hanna.
 N: Ja, ich gehe einmal wöchentlich in den Babysitterkurs.
 N: Wieso denn das?
@@ -408,17 +426,14 @@ N: Dann drück’ ich dir die Daumen. So, liebe Hörerinnen und Hörer, vielleic
 # 1_33.mp3 Modul 1 Aufgabe 3a
 <audio controls loop src="LB/1_33.mp3"></audio>
 
-`````
+`````de
 Ich arbeite jetzt schon sehr lange in einer großen Firma und habe den Wunsch, mich beruflich zu verbessern. Mein Chef hat mir empfohlen, einen Kurs für gute Umgangsformen im Berufsalltag zu besuchen. Er meint, es ist wichtig, sich immer kompetent und höflich zu präsentieren.
 `````
-
-# 1_34.mp3 Modul 3 Aufgabe 1b Lied
-<audio controls loop src="LB/1_34.mp3"></audio>
 
 # 1_35.mp3 Modul 4 Aufgabe 2b
 <audio controls loop src="LB/1_35.mp3"></audio>
 
-`````
+`````de
 N: Ist es Ihnen auch schon passiert, dass Sie auf der Straße einen Bekannten treffen, Ihnen aber dessen Name einfach nicht einfällt? Was für eine unangenehme Situation.
 Vergesslichkeit kennt jeder, egal ob jung oder alt. Man vergisst die Telefonnummer der besten Freundin oder hat seine Geheimzahl nicht mehr im Kopf. Der Haustürschlüssel ist verschwunden und der Geldbeutel lässt sich nach dem Einkauf einfach nicht mehr finden. Wir vergessen im Alltag so vieles. Warum eigentlich? Dr. Witt vom Bundesverband für Gedächtnistraining weiß die Antwort.
 N: Schwierigkeiten, sich an bestimmte Dinge zu erinnern, sind bis zu einem gewissen Grad normal. Man braucht sich deshalb keine Sorgen zu machen – solange sie nur ab und an auftreten. Denn das Gedächtnis ändert sich ständig, besonders die Verbindungen zwischen den einzelnen Gedächtnisinhalten: Neues Wissen wird aufgenommen, alte Informationen werden verändert oder treten in den Hintergrund. Sie alle haben bestimmt schon mal eine Fremdsprache gelernt und wissen, wie schnell man Wörter vergisst. Unser Gedächtnis braucht ständiges Training.
@@ -429,7 +444,7 @@ N: Wir wollen durch ganzheitliches Gedächtnistraining spielerisch und ohne Stre
 # 1_36.mp3 Modul 4 Aufgabe 2c und d
 <audio controls loop src="LB/1_36.mp3"></audio>
 
-`````
+`````de
 N: Der Bundesverband für Gedächtnistraining bietet jede Menge Kurse und Seminare an und logisches Denken kommt dabei ganz gewiss nicht zu kurz, denn in den Kursen werden viele Logik- und Denksportaufgaben angeboten. Dabei lernen die Teilnehmer nicht nur, wie man diese lösen kann, sondern beobachten sich auch selbst beim Lösen der Aufgaben. Hören Sie Dr. Witt mit einer Kostprobe:
 N: Ein schönes Beispiel für eine Logikaufgabe ist die Geschichte vom Fährmann. Ein Fährmann steht vor folgendem Problem: Er muss einen Fluss in einem kleinen Boot überqueren und dabei einen Wolf, ein Schaf und einen Kohlkopf ans andere Ufer bringen. Das Boot ist leider so klein, dass außer ihm immer nur ein Tier oder der Kohlkopf mit ins Boot passen. Dabei darf das Schaf nicht mit dem Kohlkopf allein bleiben, weil es ihn frisst. Ebenso frisst der Wolf das Schaf, wenn sie allein am Ufer zurückbleiben. Wie schafft der Fährmann es, alle auf die andere Seite zu bringen, ohne dass jemand dabei gefressen wird? Um diese Aufgabe zu lösen, muss man sich zuerst einmal verdeutlichen, was nicht zusammenpasst, also Wolf und Schaf auf der einen Seite sowie Schaf und Kohl auf der anderen. Viele scheitern an der Aufgabe, weil sie nur in eine Richtung denken. Ich will das an der Lösung der Aufgabe verdeutlichen: Bei seiner ersten Fahrt muss der Fährmann das Schaf mitnehmen, da sonst entweder das Schaf den Kohl oder der Wolf das Schaf fressen würde. Nachdem er das Schaf auf die andere Seite gebracht hat, kehrt er zurück und nimmt den Wolf oder den Kohlkopf mit. Es gibt also zwei Lösungen. Ich nehme zuerst den Wolf. Am Ufer B, wo das Schaf bereits wartet, setzt der Fährmann den Wolf an Land und nimmt das Schaf wieder mit zurück. An Ufer A wieder angekommen, lässt er das Schaf an Land, nimmt den Kohl mit und fährt wieder zum Ufer B. Dort entleert er sein Boot und fährt allein zurück, um schließlich das Schaf zu holen. Um zu einer Lösung zu kommen, muss der Fährmann das Schaf also dreimal transportieren. Die meisten Leute kommen eben nicht auf diese Idee.
 N: Wenn Sie, liebe Zuhörerinnen und Zuhörer, mehr über den Bundesverband für Gedächtnistraining erfahren möchten, dann besuchen Sie doch unsere Homepage. Dort finden Sie auch jede Menge Tipps für intensives Gedächtnistraining und erfolgreiches Fremdsprachenlernen.
@@ -438,7 +453,7 @@ N: Wenn Sie, liebe Zuhörerinnen und Zuhörer, mehr über den Bundesverband für
 # 2_02.mp3 Kapitel 6 Auftakt Aufgabe 2b 1
 <audio controls loop src="LB/2_02.mp3"></audio>
 
-`````
+`````de
 Ich habe als Zimmermädchen und Küchenhilfe in einem großen Hotel auf der Nordseeinsel Juist angefangen und damals dort den ganzen Sommer verbracht. Das war wirklich harte Arbeit: Um sechs fing die Arbeit an, Frühstück vorbereiten, dann Zimmer putzen, danach die anderen Räume, dann Wäsche machen. Und abends habe ich in der Küche geholfen. Mein Arbeitstag hat eigentlich immer bis 11 Uhr abends gedauert. Bevor ich anfing, hatte ich mir vorgestellt, dass ich auf einer schönen Ferieninsel sein würde und auch mal am Strand liegen könnte. Aber in Wirklichkeit musste ich sehr viel arbeiten und hatte überhaupt keine Zeit.
 Naja, es war trotzdem eine schöne Zeit, weil die Gäste sehr nett waren und ich viele andere junge Leute kennengelernt habe. Dieser Sommer hat mir gezeigt, dass mir die Arbeit im Hotel gefällt und danach habe ich eine Ausbildung zur Hotelfachfrau gemacht. Heute arbeite ich in einem großen Hotel in der Schweiz und mein Beruf macht mir nach wie vor Spaß.
 `````
@@ -446,7 +461,7 @@ Naja, es war trotzdem eine schöne Zeit, weil die Gäste sehr nett waren und ich
 # 2_03.mp3 2
 <audio controls loop src="LB/2_03.mp3"></audio>
 
-`````
+`````de
 Während meines Studiums habe ich als Stadtführer gejobbt. Ich glaube, ich hab’ das sogar fünf Jahre lang gemacht. Meistens hat es auch Spaß gemacht. Ich habe Menschen aus der ganzen Welt kennengelernt. Und außerdem hab’ ich in dieser Zeit selbst viel über meine Stadt gelernt. Ich musste mich ja wirklich gut vorbereiten. Das war sehr interessant, aber auch viel Arbeit.
 Oft war der Job aber auch nervig. Wenn es regnet oder sehr heiß ist, dann macht es überhaupt keinen Spaß, durch die Stadt zu laufen. Und manchmal hat man auch Leute dabei, die interessiert das alles gar nicht, was der Stadtführer ihnen erzählt. Die quatschen dann die ganze Zeit und hören nicht zu. Das fand ich immer ziemlich unhöflich.
 `````
@@ -454,14 +469,14 @@ Oft war der Job aber auch nervig. Wenn es regnet oder sehr heiß ist, dann macht
 # 2_04.mp3 3
 <audio controls loop src="LB/2_04.mp3"></audio>
 
-`````
+`````de
 Ich habe mal als Erntehelferin bei der Weinlese gejobbt. Das war echt ein Knochenjob, den ganzen Tag im Weinberg stehen und die Trauben schneiden. Die ersten Tage fiel mir das ganz schön schwer, ich konnte mich am Abend kaum noch bewegen. Mein Rücken tat total weh. Aber mit der Zeit ging es immer besser. Die Winzer waren sehr nett und es gab jeden Tag ein leckeres Essen für die Helfer. Das waren immer sehr schöne Abende, da wurde viel geredet und gelacht. Und am Ende habe ich sehr viel über Wein gelernt. Das war richtig gut.
 `````
 
 # 2_05.mp3 4
 <audio controls loop src="LB/2_05.mp3"></audio>
 
-`````
+`````de
 Ich habe nach meiner Ausbildung nicht gleich eine Stelle gefunden. Da habe ich dann eine Weile gejobbt, z. B. als Taxifahrer oder als Möbelpacker. Möbelpacker war anstrengender, aber auch interessanter. Man lernt das Leben total fremder Menschen kennen. Du siehst die alte und die neue Wohnung. Man kann erkennen, ob der Umzug eine Verbesserung oder eine Verschlechterung für die Personen ist. Ob sich Paare finden oder trennen. Und einem begegnen Typen …
 Unglaublich! Das ist wie im Film. Was hab’ ich alles an lustigen und tragischen Geschichten erlebt! Manchmal sind wir zu einem Umzug gekommen und die Leute schliefen noch. Nichts war eingepackt. Das war dann supernervig. Und es ist natürlich total anstrengend, den ganzen Tag Möbel rauf- und runterzutragen. Da brauchst du nicht mehr ins Fitnessstudio zu gehen. Mein Leben lang hätte ich den Job nicht machen wollen, aber für bestimmte Zeit war es wirklich interessant.
 `````
@@ -469,7 +484,7 @@ Unglaublich! Das ist wie im Film. Was hab’ ich alles an lustigen und tragische
 # 2_06.mp3 Modul 1 Aufgabe 1b
 <audio controls loop src="LB/2_06.mp3"></audio>
 
-`````
+`````de
 N: Arbeit, Arbeit, Arbeit! Kennen Sie das auch, liebe Hörerinnen und Hörer? Die Leute jammern ja gerne über die Arbeit: zu viel, zu schlecht bezahlt, Kollegen, mit denen man nicht klarkommt …
 Wir haben mal einen Experten gefragt, was den Menschen eigentlich wirklich wichtig an ihrem Beruf ist. Deshalb freue ich mich sehr über unseren heutigen Gast, Herrn Walter Strasser vom Berufsforschungsinstitut Heidelberg. Hallo Herr Strasser, schön, dass Sie da sind!
 N: Guten Tag. Herzlichen Dank für die Einladung!
@@ -492,7 +507,7 @@ N: Kommen wir nun zu unserem nächsten Programmpunkt: Wir haben auch eine kleine
 # 2_07.mp3 Modul 1 Aufgabe 2a
 <audio controls loop src="LB/2_07.mp3"></audio>
 
-`````
+`````de
 N: Hallo, hätten Sie vielleicht einen Augenblick Zeit?
 N: Worum geht es denn?
 N: Wir machen eine Umfrage zum Thema „berufliche Zukunft“. Dürfte ich Ihnen zwei Fragen stellen?
@@ -506,7 +521,7 @@ N: Gerne!
 # 2_08.mp3
 <audio controls loop src="LB/2_08.mp3"></audio>
 
-`````
+`````de
 N: Hallo, was für eine Umfrage macht ihr denn?
 N: Oh hallo! Also, es geht um die berufliche Zukunft. Darf ich Sie auch fragen, was Sie von Beruf sind und was Sie in zwei Jahren machen wollen?
 N: Ja, gern. Ich bin freiberufliche Übersetzerin für Englisch und Französisch. Im Moment übersetze ich vor allem Computerprogramme für eine Softwarefirma. Das macht mir aber keinen großen Spaß und die Firma, von der ich die meisten Aufträge bekomme, ist nicht sehr groß und kämpft ums Überleben. Ich muss also ständig Angst haben, dass ich keine Aufträge mehr bekomme. Die Firma wird wahrscheinlich irgendwann in Konkurs gehen. Deswegen bin ich gerade dabei, mir andere Auftraggeber zu suchen. In zwei Jahren werde ich ganz sicher woanders arbeiten. Und mein Traum ist, dass ich spannende und sprachlich anspruchsvolle Romane oder Erzählungen übersetzen werde. Es ist zwar sehr schwierig, gute Übersetzungsaufträge zu bekommen, aber ich werde schon was finden.
@@ -516,7 +531,7 @@ N: Na dann, viel Glück und vielen Dank!
 # 2_09.mp3
 <audio controls loop src="LB/2_09.mp3"></audio>
 
-`````
+`````de
 N: Dürfte ich Sie auch noch fragen, was Sie beruflich machen und wie Sie sich Ihr berufliches Leben in zwei Jahren vorstellen?
 N: Na, da haben Sie genau die Richtige erwischt. Ich habe im Moment sehr viel Ärger in meiner Arbeit und für die Zukunft wünsche ich mir alles Mögliche, bloß nicht länger diesen Job! Ich bin Teamassistentin in einer Bürogemeinschaft und habe einen Chef, der schnell wütend wird und immer an mir rummeckert. Eigentlich wird von mir vor allem erwartet, dass ich Kaffee koche und das Mittagessen holen gehe. Und wenn dann mal ein Brief geschrieben werden soll, dann muss er immer in zwei Sekunden fertig sein. Das nervt mich! Der Job ist einerseits langweilig und andererseits macht mein Chef ständig unnötigen Stress, wenn es mal was zu tun gibt. „Sie werden mir den Brief in zehn Minuten bringen, oder?“ Darauf habe ich wirklich keine Lust mehr. Ich bin gerade dabei, mir einen neuen Job zu suchen. In zwei Jahren werde ich hoffentlich einen Job haben, in dem ich gefordert bin und auch anspruchsvolle Aufgaben habe. Und das Arbeitsklima muss stimmen, so etwas wie jetzt will ich nicht noch mal erleben! Ja, und mehr Geld möchte ich natürlich auch verdienen.
 `````
@@ -524,7 +539,7 @@ N: Na, da haben Sie genau die Richtige erwischt. Ich habe im Moment sehr viel Ä
 # 2_10.mp3
 <audio controls loop src="LB/2_10.mp3"></audio>
 
-`````
+`````de
 N: Entschuldigung, darf ich Ihnen zwei Fragen stellen?
 N: Ja? Okay, von mir aus. Aber nur, wenn es nicht so lange dauert. Ich bin auf dem Weg zum Flughafen, muss meinen Flieger erwischen.
 N: Keine Sorge, es dauert nicht lange. Ich lege auch gleich los mit den Fragen: Was machen Sie beruflich und was sind Ihre Wünsche, was Ihre berufliche Zukunft betrifft? Wie soll Ihr Berufsleben in zwei Jahren aussehen?
@@ -536,14 +551,14 @@ N: Meine Zukunft? Na, das ist für mich ganz klar: Ich werde Führungsaufgaben �
 # 2_11.mp3 Modul 1 Aufgabe 2c
 <audio controls loop src="LB/2_11.mp3"></audio>
 
-`````
+`````de
 Also, ich bin Friseur. Ich bin eigentlich ganz zufrieden mit dem Job, nur leider verdiene ich nicht gut. Für die Zukunft wünsche ich mir, dass ich irgendwann einen eigenen Friseursalon habe. In zwei Jahren bin ich bestimmt noch nicht so weit. Da muss ich erst noch länger sparen. Aber ich bin sicher: Der Tag wird kommen, an dem ich mein eigenes Geschäft eröffnen kann.
 `````
 
 # 2_12.mp3 Modul 4 Aufgabe 3a
 <audio controls loop src="LB/2_12.mp3"></audio>
 
-`````
+`````de
 N: Wann hast du angefangen zu tauchen?
 N: Das war 1998. Ich habe Urlaub mit einem Freund in Ägypten gemacht. Der hat mich dann eigentlich dazu überredet, einen Tauchkurs zu machen. Das hat mir dann auch echt gut gefallen – aber damals hab’ ich noch nicht geahnt, dass es einmal mein Beruf werden wird.
 N: Tauchen war also nicht schon immer ein Traum von dir, sondern du bist eher zufällig dazu gekommen?
@@ -557,7 +572,7 @@ N: Das Tauchen hat mir so viel Spaß gemacht, dass ich immer mehr Kurse besucht 
 # 2_13.mp3 Modul 4 Aufgabe 3b
 <audio controls loop src="LB/2_13.mp3"></audio>
 
-`````
+`````de
 N: Wann hast du angefangen zu tauchen?
 N: Das war 1998. Ich habe Urlaub mit einem Freund in Ägypten gemacht. Der hat mich dann eigentlich dazu überredet, einen Tauchkurs zu machen. Das hat mir dann auch echt gut gefallen – aber damals hab’ ich noch nicht geahnt, dass es einmal mein Beruf werden wird.
 N: Tauchen war also nicht schon immer ein Traum von dir, sondern du bist eher zufällig dazu gekommen?
@@ -583,7 +598,7 @@ N: Hm, jein … Es ist schon so, dass ich meinen Urlaub nutze, um meinem Körper
 # 2_14.mp3 Kapitel 7 Modul 1 Aufgabe 2
 <audio controls loop src="LB/2_14.mp3"></audio>
 
-`````
+`````de
 Fast alle Menschen träumen von der großen Liebe – aber die Zahl der Scheidungen ist in Deutschland so hoch wie nie zuvor. Jede zweite Ehe wird geschieden und das, obwohl für 90 Prozent aller Deutschen eine glückliche Partnerschaft das wichtigste Lebensziel ist. Die Hälfte der Scheidungsfälle betrifft Kinder. Im Durchschnitt endet heute eine Ehe nach 14 Jahren und zwei Monaten.
 Zu Zeiten unserer Großeltern bedeutete eine Ehe vor allem materielle Sicherheit. Dieser Aspekt ist heutzutage nicht mehr so wichtig. Wer heute heiratet, tut dies viel mehr aus romantischen Gefühlen heraus als früher. Umso größer ist die Enttäuschung, wenn dann der Alltag mit seinen Problemen eintritt und die Romantik verschwindet. Aber was bedeutet es eigentlich für die betroffenen Kinder, wenn eine Ehe zerbricht?
 79 Prozent der Kinder wachsen auch heute noch bei den leiblichen und verheirateten Eltern auf, aber jedes Jahr werden ungefähr 150.000 Kinder zu Scheidungskindern. 15 Prozent aller Kinder leben bei ihrer alleinerziehenden Mutter oder ihrem alleinerziehenden Vater. Sechs Prozent leben in einer Patchworkfamilie.
@@ -593,7 +608,7 @@ Mein Kollege Lutz Keller hat darüber mit einer Mutter und einem Vater gesproche
 # 2_15.mp3
 <audio controls loop src="LB/2_15.mp3"></audio>
 
-`````
+`````de
 N: Frau Schröder, Sie leben allein mit Ihrer sechsjährigen Tochter Lara.
 N: Ja, mein Ex-Mann und ich haben uns vor drei Jahren scheiden lassen und seitdem leben Lara und ich allein.
 N: Wann sieht Lara ihren Vater?
@@ -629,7 +644,7 @@ N: Ich mache eine Ausbildung und verdiene mein eigenes Geld. Aber ich wohne noch
 # 2_18.mp3
 <audio controls loop src="LB/2_18.mp3"></audio>
 
-`````
+`````de
 N: Herr Meier-Brill, kaufen Sie auch so viel ein wie Herr Schröder?
 N: Oh nein, gar nicht. Früher vielleicht mal: Aber mit Mitte 40 stellt man doch fest, dass man schon so viele Dinge hat, dass man fast nichts Neues mehr braucht. Ich bin Single und habe eine kleine Wohnung. Die ist irgendwann voll.
 N: Und jetzt kaufen Sie nichts mehr?
@@ -639,7 +654,7 @@ N: Nichts ist vielleicht zu extrem. Aber ich kaufe nur noch das, was ich wirklic
 # 2_19.mp3
 <audio controls loop src="LB/2_19.mp3"></audio>
 
-`````
+`````de
 N: Frau Fassbach, reduzieren Sie auch?
 N: Oh, das fällt mir schwer! Ich kaufe nämlich gerne ein. Und ich habe auch Spaß daran, mich mit praktischen und schönen Dingen zu umgeben.
 N: Und Sie haben ja auch beruflich mit dem Einkaufen zu tun …
@@ -651,7 +666,7 @@ N: Ja, sicher. Einkaufen macht doch auch Spaß. Man kann sich immer wieder den e
 # 2_20.mp3 Modul 2 Aufgabe 4
 <audio controls loop src="LB/2_20.mp3"></audio>
 
-`````
+`````de
 N: Herr Meier-Brill, ich möchte noch mal auf das zurückkommen, was Sie vorhin gesagt haben. Sie haben gesagt, Sie kaufen nicht mehr, Sie reduzieren. Was haben Sie denn außer CDs, Kleidern und DVDs noch alles reduziert?
 N: Ich habe mir irgendwann die Frage gestellt, was ich denn eigentlich wirklich brauche. Ich lebe in der Stadt, ich fahre selten Auto. Also habe ich es verkauft. Ich habe einen kleinen Haushalt. Ich brauche den Geschirrspüler nicht. Also weg damit.
 N: Frau Fassbach, könnten Sie auch ohne Geschirrspüler leben?
@@ -676,7 +691,7 @@ N: Naja, die Erwachsenen haben doch auch Möglichkeiten, ihre Kinder zu beeinflu
 # 2_21.mp3 Modul 2 Aufgabe 5b
 <audio controls loop src="LB/2_21.mp3"></audio>
 
-`````
+`````de
 N: Herr Meier-Brill, was machen Sie denn, um weniger zu konsumieren?
 N: Ich versuche, alle Dinge so lange wie möglich zu benutzen, bevor ich etwas Neues kaufe. Ich brauche nicht zehn Paar Schuhe. Ich trage ein Paar und erst wenn das kaputt ist, kaufe ich neue Schuhe. Und dann kaufe ich oft auch gebrauchte Sachen. Es gibt schließlich genug Secondhandläden und Flohmärkte. Größere Dinge wie Waschmaschinen findet man über Kleinanzeigen. Man braucht nicht immer das Neueste. Und man braucht vor allem auch nicht immer teure Markenartikel.
 N: Aber Sie machen ja auch noch etwas anderes …
@@ -693,7 +708,7 @@ N: Ja, also, dazu muss ich aber noch sagen, dass ich …
 # 2_22.mp3 Modul 3 Aufgabe 1b
 <audio controls loop src="LB/2_22.mp3"></audio>
 
-`````
+`````de
 N: Guten Tag, hier ist die Hotline von Multi-Media-Schnäppchen.de. Vielen Dank für Ihren Anruf, wir werden Sie schnellstmöglich mit dem nächsten freien Mitarbeiter verbinden. Bitte haben Sie noch einen Augenblick Geduld.
 N: Multi-Media-Schnäppchen.de, guten Tag, mein Name ist Phillip Högel, was kann ich für Sie tun?
 N: Ja, guten Tag, Stadler ist mein Name. Ich habe ein Problem mit einem Laptop, den ich bei Ihnen gekauft habe.
@@ -722,14 +737,14 @@ N: Auf Wiederhören.
 # 2_23.mp3 Modul 4 Aufgabe 5 Nummer 1
 <audio controls loop src="LB/2_23.mp3"></audio>
 
-`````
+`````de
 Arbeiten Sie auch ständig für Ihren Computer? Dabei sollte Ihre EDV-Anlage doch für Sie arbeiten. Wir helfen bei Planung, Optimierung und Ausbau von IT-Systemen. Netec – Computerprobleme waren gestern. Weitere Informationen finden Sie unter www.netecfederation.de.
 `````
 
 # 2_24.mp3 Nummer 2
 <audio controls loop src="LB/2_24.mp3"></audio>
 
-`````
+`````de
 Neues aus Weihenstephan:
 „Ja, Grüß Gott Frau Huber. Fahren Sie eigentlich weg dieses Jahr?“
 „Ja, freilich, auf die Malediven.“
@@ -741,7 +756,7 @@ Jetzt Weihenstephan-Alpenmilch trinken und Reisegutschein bis zu hundert Euro si
 # 2_25.mp3 Nummer 3
 <audio controls loop src="LB/2_25.mp3"></audio>
 
-`````
+`````de
 Eine Million Fassungen bei Apollo-Optik, ich weiß. Für’n Euro das Stück und das ist zum Glück ein echter Danke-Preis.
 Deutschlands zufriedenster Optiker sagt Danke mit einer Million Fassungen für einen Euro. Gilt beim Kauf einer Brille in Sehstärke. Apollo-Optik – Wir haben nur Ihre Augen im Kopf.
 `````
@@ -749,7 +764,7 @@ Deutschlands zufriedenster Optiker sagt Danke mit einer Million Fassungen für e
 # 2_26.mp3 Nummer 4
 <audio controls loop src="LB/2_26.mp3"></audio>
 
-`````
+`````de
 Tchibo präsentiert: Das Angeboot!
 „Knut, hast du was entdeckt?“
 „Kapitän, es ist sensationell. Tchibo hat einen MobilfunkVertrag, der monatlich kündbar ist.“
@@ -761,7 +776,7 @@ Jetzt bei Tchibo. Der neue Komfort-Tarif. Einfach undgünstig tchibofonieren.
 # 2_27.mp3 Kapitel 9 Modul 1 Aufgabe 2a
 <audio controls loop src="LB/2_27.mp3"></audio>
 
-`````
+`````de
 N: Liebe Zuhörerinnen und Zuhörer, wollten Sie schon immer mal wissen, was man auf einer Weltreise alles erleben kann? Dann sind Sie heute richtig in unserer Sendereihe „Fernweh“. In unserem Studio heute zu Gast: Axel Franke, 29 Jahre alt aus Hannover, der gerade von seiner Weltreise zurückgekehrt ist. Herzlich willkommen, Axel. Unsere Zuhörerinnen und Zuhörer sind gespannt auf deine Erfahrungen.
 N: Ja, hallo, ich freu’ mich, heute hier im Studio zu sein.
 N: Axel, vielleicht kannst du uns erst einmal ein paar Eckdaten deiner Reise nennen.
@@ -773,7 +788,7 @@ N: Eigentlich sollte meine Reise neun Monate dauern. Aber aus neun Monaten wurde
 # 2_28.mp3 Modul 1 Aufgabe 2b
 <audio controls loop src="LB/2_28.mp3"></audio>
 
-`````
+`````de
 N: Wie bist du überhaupt auf die Idee gekommen, so lange zu verreisen?
 N: Na, Reisen ist mein wichtigstes Hobby. Das war schon in meiner Kindheit so. Immer wenn ich als kleiner Junge Radtouren mit meinen Eltern unternommen habe, hat mich das Reisefieber gepackt. Wir waren oft mehrere Tage lang unterwegs. Solange ich nicht zu Hause war, war ich einfach glücklich.
 Naja, und nachdem ich das Abi geschafft hatte, fuhr ich per Anhalter durch Europa. Das war meine erste große Reise. Danach habe ich eine Ausbildung als Bankkaufmann gemacht. Als ich 25 war, bekam ich großes Fernweh. Ich wollte unbedingt mal in die Südsee, den feinen weißen Sand unter meinen Füßen spüren und auf eine türkisblaue Lagune schauen.
@@ -788,7 +803,7 @@ Naja, bis die Reise dann endlich beginnen konnte, hat es aber noch einen Monat g
 # 2_29.mp3 Modul 1 Aufgabe 2c
 <audio controls loop src="LB/2_29.mp3"></audio>
 
-`````
+`````de
 N: Erzähl uns doch von deinem schönsten Erlebnis auf der Reise.
 N: Da weiß ich gar nicht, wo ich anfangen soll … Hm, also, generell kann ich sagen: Unheimlich schön ist es, wenn man sich irgendwo weit weg von zu Hause „zu Hause“ fühlt. Das kommt überhaupt nicht oft vor. Es ist schnell mal eben gesagt, dass man irgendwo an einem Traumstrand leben möchte. Das halte ich für absoluten Unsinn. Denn spätestens nach zwei Monaten wird das langweilig. Dann aber gibt es diese unerwarteten Orte, die keinen Strand zu bieten haben, kein Meer, keine großartigen Sehenswürdigkeiten, die dir aber das Gefühl geben, du bist angekommen, hier willst du bleiben. Das ist ein unbeschreibliches Gefühl, das ist … der Sechser im Lotto des Weltreisens und kann womöglich dein ganzes Leben verändern. Und das hat fast immer nur mit einem zu tun – nämlich mit Menschen.
 N: Das klingt nach wirklich tollen Erfahrungen, die du auf der Reise gesammelt hast. Was hast du denn noch über dich oder das Reisen gelernt?
@@ -801,7 +816,7 @@ N: Vielen Dank, Axel, für diese Tipps. Wenn Sie, liebe Zuhörerinnen und Zuhör
 # 2_30.mp3 Modul 1 Aufgabe 3a
 <audio controls loop src="LB/2_30.mp3"></audio>
 
-`````
+`````de
 1. Immer wenn ich Radtouren unternommen habe, hat mich das Reisefieber gepackt.
 2. Solange ich nicht zu Hause war, war ich einfach glücklich.
 3. Nachdem ich das Abi geschafft hatte, fuhr ich per Anhalter durch Europa.
@@ -813,7 +828,7 @@ N: Vielen Dank, Axel, für diese Tipps. Wenn Sie, liebe Zuhörerinnen und Zuhör
 # 2_31.mp3 Modul 2 Aufgabe 2a
 <audio controls loop src="LB/2_31.mp3"></audio>
 
-`````
+`````de
 N: Urlaubszeit! Für viele heißt das: ab an den Strand und endlich einmal nichts tun. Für einige Menschen bedeutet es aber genau das Gegenteil. Gerade junge Menschen fahren gerne in sogenannte Workcamps. Eine junge Workcamperin haben wir heute als Studiogast und möchten sie fragen, was diese Art des Urlaubs für sie so attraktiv macht. Ich begrüße Britta Kühlmann, 21 Jahre alt. Hallo.
 N: Hallo, Tony.
 N: Britta, du warst schon in einigen Workcamps, zuletzt in Indien.
@@ -855,7 +870,7 @@ N: Es gibt einige Organisationen, die Aufenthalte in Workcamps vermitteln, einfa
 # 2_32.mp3 Modul 4 Aufgabe 2b
 <audio controls loop src="LB/2_32.mp3"></audio>
 
-`````
+`````de
 N: Hotel Albatros, mein Name ist Kerstin Heinrichsen, was kann ich für Sie tun?
 N: Guten Tag, mein Name ist Stadler. Ich möchte ein Zimmer bei Ihnen reservieren.
 N: Wann möchten Sie anreisen?
@@ -879,7 +894,7 @@ N: Sehr gut. Mein Name ist Stadler, Vorname Beda. Und meine Adresse lautet Kornh
 # 2_33.mp3 Modul 4 Aufgabe 4a
 <audio controls loop src="LB/2_33.mp3"></audio>
 
-`````
+`````de
 N: Guten Tag, was kann ich für Sie tun?
 N: Guten Tag. Können Sie mir sagen, wann und wo es morgen Stadtführungen gibt?
 N: Gerne. Morgen starten Stadtführungen am Rathaus um 10:00 Uhr und um 14:00 Uhr.
@@ -899,7 +914,7 @@ N: Auf Wiederhören.
 # 2_34.mp3 Kapitel 10 Modul 2 Aufgabe 2b
 <audio controls loop src="LB/2_34.mp3"></audio>
 
-`````
+`````de
 N: Hallo hier bei uns im Studio zur Sendung „Tierisch gut“. Heute haben wir Herrn Manuel Tucher bei uns zu Gast. Herr Tucher ist aktiver Tierschützer und arbeitet beim Tierschutzverein Leipzig. Hallo, Herr Tucher, schön, dass Sie da sind.
 N: Hallo. Danke für die Einladung.
 N: Sagen Sie, wie kam es dazu, dass Sie Tierpfleger geworden sind?
@@ -912,7 +927,7 @@ N: Naja, also in einem Tierheim ist natürlich immer viel zu tun: Ich kümmere m
 # 2_35.mp3 Modul 2 Aufgabe 2c
 <audio controls loop src="LB/2_35.mp3"></audio>
 
-`````
+`````de
 N: Passiert es denn oft, dass herrenlose Tiere gefunden werden?
 N: Ja, leider viel zu oft. Besonders im Sommer, wenn die Leute in Urlaub fahren und keine Lust oder kein Geld haben, ihr Tier betreuen zu lassen. Da haben wir Hochsaison und finden leider sehr viele Tiere, die einfach irgendwo ausgesetzt wurden.
 Unsere zweite Hochsaison ist im Februar und März, wenn die Leute merken, dass die niedlichen kleinen Tierchen, die sie ihren Kindern zu Weihnachten geschenkt haben, doch mehr Arbeit machen als ein Spielzeug …
@@ -930,7 +945,7 @@ N: Vielen Dank, Herr Tucher! Liebe Hörerinnen und Hörer, wenn Sie wissen möch
 # 2_36.mp3 Modul 4 Aufgabe 2a
 <audio controls loop src="LB/2_36.mp3"></audio>
 
-`````
+`````de
 Hallo, ich spreche heute über das Thema „Wasser“. Jeder hat ein anderes Bild im Kopf, wenn er an Wasser denkt. Die einen denken an einen schönen Strandtag. Die anderen an das Hochwasser in ihrer Region. In vielen Ländern trinkt man sauberes Wasser problemlos aus dem Wasserhahn, während woanders das Wasser zu schmutzig ist, um es überhaupt zu trinken. An was auch immer wir denken, fest steht, dass Wasser das Element ist, das mit allem Leben auf der Erde verbunden ist. Ohne Wasser würde es auf der Erde genauso wenig Leben geben wie auf dem Mond.
 Mein Referat besteht aus zwei Teilen. Zuerst möchte ich darüber sprechen, wie viel Wasser es überhaupt auf der Erde gibt. Im zweiten Teil geht es darum, wer wie viel Wasser zur Verfügung hat.
 `````
@@ -938,14 +953,14 @@ Mein Referat besteht aus zwei Teilen. Zuerst möchte ich darüber sprechen, wie 
 # 2_37.mp3
 <audio controls loop src="LB/2_37.mp3"></audio>
 
-`````
+`````de
 Wie viel Wasser gibt es eigentlich auf der Erde? Schätzungen gehen von einer Wassermenge von 1,4 bis 1,6 Milliarden Kubikkilometern aus. So sind 70 % der Erde mit Wasser bedeckt. Aber nur ein kleiner Teil davon kann als Trinkwasser genutzt werden, denn der größte Teil der Wassermenge ist Meerwasser und damit salzig. Nur ungefähr 2,6 % ist Süßwasser. Davon ist aber ungefähr zwei Drittel in Gletschern und Eis gebunden. Nur 0,3 % der globalen Süßwasservorräte befinden sich in Seen und Flüssen und sind somit leicht zugänglich.
 `````
 
 # 2_38.mp3
 <audio controls loop src="LB/2_38.mp3"></audio>
 
-`````
+`````de
 Ich komme jetzt zum zweiten Teil. Obwohl es also auf der Erde viel Wasser gibt, reicht der Anteil, den Menschen nutzen können, kaum aus. Die Weltbevölkerung wächst weiter und die Süßwasserreserven werden immer weniger. Mehr als 80 Länder der Erde haben heute schon Schwierigkeiten, ihre Bevölkerung mit Trinkwasser zu versorgen. Über eine Milliarde Menschen haben nicht einmal 20 Liter Wasser pro Tag zur Verfügung. Rund zwei Milliarden Menschen haben keinen Zugang zu sauberem Trinkwasser. Zum Vergleich: In Deutschland verbraucht eine Person täglich circa 124 Liter Wasser.
 Der größte Wasserverbraucher ist die Landwirtschaft. Durch ineffiziente Bewässerung gehen weltweit rund 60 % des Wassers verloren. Außerdem wird das Wasser zunehmend durch Pestizide, Giftmüll und Waschmittel verschmutzt. Weltweit sterben ungefähr 4.000 Kinder am Tag, weil sie schmutziges Wasser trinken und krank werden. In der Zukunft werden sich viele Konflikte auf der Welt um Wasser drehen.
 Abschließend möchte ich noch einmal betonen, wie wertvoll Wasser ist und wie wichtig es ist, bewusst und sparsam damit umzugehen.

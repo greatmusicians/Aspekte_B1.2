@@ -1,7 +1,7 @@
 # 02.mp3 Kapitel 1 Modul 1 Übung 1
 <audio controls loop src="AB/02.mp3"></audio>
 
-`````
+`````de
 ○ Sag mal, was machst du eigentlich, wenn du mit der Ausbildung fertig bist?
 ● Also, zuerst will ich natürlich ein paar Jahre als Krankenschwester arbeiten, deshalb habe ich die Ausbildung ja auch gemacht. Erst mal hier in Dortmund und dann ein paar Jahre im Ausland, vielleicht in England.
 ○ Klingt gut.
@@ -20,14 +20,14 @@
 # 03.mp3 Aussprache Übung 1a
 <audio controls loop src="AB/03.mp3"></audio>
 
-`````
+`````de
 1. Hände, 2. Ecke, 3. eilen, 4. heben, 5. herstellen, 6. aus
 `````
 
 # 04.mp3 Aussprache Übung 1b
 <audio controls loop src="AB/04.mp3"></audio>
 
-`````
+`````de
 1. Ende – Hände, 2. Ecke – Hecke, 3. eilen – heilen,
 4. eben – heben, 5. erstellen – herstellen, 6. Haus – aus
 `````
@@ -35,7 +35,7 @@
 # 05.mp3 Aussprache Übung 2b
 <audio controls loop src="AB/05.mp3"></audio>
 
-`````
+`````de
 herzhaft, lehren, Johannes, sehen, lebhaft, erheben,
 Alkohol, unhaltbar, Seehund, ehrlich, wohnen,
 Frechheit, Gehilfe
@@ -44,7 +44,7 @@ Frechheit, Gehilfe
 # 06.mp3 Aussprache Übung 3
 <audio controls loop src="AB/06.mp3"></audio>
 
-`````
+`````de
 Hinter Hermann Hannes Haus hängen hundert Hemden raus.
 Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.
 Als Anna abends aß, aß Anna abends Ananas.
@@ -53,7 +53,7 @@ Als Anna abends aß, aß Anna abends Ananas.
 # 07.mp3 Kapitel 2 Modul 4 Übung 2
 <audio controls loop src="AB/07.mp3"></audio>
 
-`````
+`````de
 ○ Hi Theresa, na, wie geht‘s dir?
 ● Hallo Sandra. Gut, danke ... Ah, ich freu‘ mich auf einen Kaffee mit Kuchen.
 ◼ Darf ich Ihnen schon etwas bringen?
@@ -79,7 +79,7 @@ Als Anna abends aß, aß Anna abends Ananas.
 # 08.mp3 Aussprache Übung a
 <audio controls loop src="AB/08.mp3"></audio>
 
-`````
+`````de
 ○ Hallo, jemand zu Hause?
 ● Hallo … Küche!
 ○ Alles okay? Du siehst so genervt aus.
@@ -102,7 +102,7 @@ Als Anna abends aß, aß Anna abends Ananas.
 # 09.mp3 Aussprache Übung b
 <audio controls loop src="AB/09.mp3"></audio>
 
-`````
+`````de
 aufregen – anstellen – anhören – annehmen –
 aufräumen – herumliegen – dazugeben – vorstellen –
 ausziehen
@@ -111,7 +111,7 @@ ausziehen
 # 10.mp3 Kapitel 3 Modul 4 Übung 3a
 <audio controls loop src="AB/10.mp3"></audio>
 
-`````
+`````de
 Toni, 35, 2 Kinder, verheiratet
 Ach, wissen Sie, mir wird das alles oft zu viel. Jeden Tag das Gleiche. Es ist 14 Uhr und ich muss die Kinder abholen. Aber ich komme einfach nicht pünktlich von der Arbeit weg. Ich bin nie fertig. Ich arbeite zwar halbtags, habe aber Arbeit für den ganzen Tag.
 Dann hetze ich zum Kindergarten, da warten die Kinder auch schon. Zusammen müssen wir meistens noch einkaufen, dann gehen wir nach Hause.
@@ -122,7 +122,7 @@ So geht das echt nicht weiter!
 # 11.mp3
 <audio controls loop src="AB/11.mp3"></audio>
 
-`````
+`````de
 Maja, 29, ledig
 Letztes Jahr habe ich mit meiner Freundin Lina eine Firma gegründet: ökologische Spielsachen und Kleidung für Kinder. Die Firma läuft schon ganz gut. Aber ich muss so viel arbeiten und hab’ gar keine Freizeit mehr. Die Aufträge, die Bestellungen, die Homepage bearbeiten … und dann auch noch nett zu den Kunden sein. Das kostet meine ganze Kraft. Und dann doch immer die Sorgen um das Geld. Diesen Monat reicht es, aber nächsten Monat? So langsam, aber sicher bin ich am Ende. Und jetzt haben Lina und ich auch noch Streit. Sie will mit mehr Aktionen und Sonderangeboten arbeiten. Aber wir haben bisher noch gar nicht so viel verdient, dass wir Geld dafür ausgeben könnten. Und ich soll auch noch die ganze
 Werbung machen. Oh Mann!
@@ -131,7 +131,7 @@ Werbung machen. Oh Mann!
 # 12.mp3 Aussprache Übung 1a und b
 <audio controls loop src="AB/12.mp3"></audio>
 
-`````
+`````de
 1. Kissen, 2. Kiel, 3. spülen, 4. liegen, 5. Münze,
 6. fühlen, 7. Tier, 8. vier, 9. Bühne, 10. Kiste, 11. Züge
 `````
@@ -139,7 +139,7 @@ Werbung machen. Oh Mann!
 # 13.mp3 Aussprache Übung 1c
 <audio controls loop src="AB/13.mp3"></audio>
 
-`````
+`````de
 1. Kissen – küssen, 2. Kiel – kühl, 3. spielen – spülen,
 4. lügen – liegen, 5. Münze – Minze, 6. fielen – fühlen,
 7. Tür – Tier, 8. für – vier, 9. Bühne – Biene, 10. Küste –
@@ -149,7 +149,7 @@ Kiste, 11. Züge – Ziege
 # 14.mp3 Aussprache Übung 2b
 <audio controls loop src="AB/14.mp3"></audio>
 
-`````
+`````de
 1. Buch – Bücher, 2. Strumpf – Strümpfe, 3. Gruß –
 Grüße, 4. Tuch – Tücher, 5. Zug – Züge, 6. Fluss – Flüsse,
 7. Mutter – Mütter, 8. Hut – Hüte
@@ -158,7 +158,7 @@ Grüße, 4. Tuch – Tücher, 5. Zug – Züge, 6. Fluss – Flüsse,
 # 15.mp3 Kapitel 4 Modul 4 Übung 3
 <audio controls loop src="AB/15.mp3"></audio>
 
-`````
+`````de
 ○ Hey, hallo Rana!
 ● Hallo Simon, wie geht’s?
 ○ Gut, danke, und dir?
@@ -200,7 +200,7 @@ Grüße, 4. Tuch – Tücher, 5. Zug – Züge, 6. Fluss – Flüsse,
 # 16.mp3 Aussprache Übung a
 <audio controls loop src="AB/16.mp3"></audio>
 
-`````
+`````de
 1. Er geht gern ins Theater. 2. Ich habe Lust auf Kino.
 3. Wir gehen abends essen.
 `````
@@ -208,7 +208,7 @@ Grüße, 4. Tuch – Tücher, 5. Zug – Züge, 6. Fluss – Flüsse,
 # 17.mp3 Aussprache Übung b
 <audio controls loop src="AB/17.mp3"></audio>
 
-`````
+`````de
 1. Hat Martin die Nachtwächtertour in Zürich gemacht?
 2. Hat Martin die Nachtwächtertour in Zürich gemacht?
 3. Hat Martin die Nachtwächtertour in Zürich gemacht?
@@ -218,14 +218,14 @@ Grüße, 4. Tuch – Tücher, 5. Zug – Züge, 6. Fluss – Flüsse,
 # 18.mp3 Modul 4 Übung 3a
 <audio controls loop src="AB/18.mp3"></audio>
 
-`````
+`````de
 „Deutsche Sprache – schwere Sprache“, meinen selbst Deutsche, wenn sie merken, wie kompliziert ihre eigene Sprache ist. Doch was sind die Gründe dafür? Dieser Frage wollen wir uns heute in unserer Sendung „Nachgehakt“ widmen. Und wer könnte diese Frage besser beantworten als Menschen, die diese Sprache gerade lernen? Ich bin heute in einem Sprachinstitut, um einige Lerner zu befragen. An diesem Institut lernen vor allem Fortgeschrittene, d. h. Menschen, die bereits einige Erfahrung mit der deutschen Sprache gesammelt haben. Wir können also gespannt sein …
 `````
 
 # 19.mp3 Modul 4 Übung 3b
 <audio controls loop src="AB/19.mp3"></audio>
 
-`````
+`````de
 ○ Entschuldigung, darf ich Sie etwas fragen? Sprechen Sie Deutsch?
 ● Ja, natürlich. Ich lerne schon lange diese Sprache, aber die Frage ist, wann ich sie endlich perfekt kann.
 ○ Was ist denn für Sie so schwierig am Deutschlernen?
@@ -238,7 +238,7 @@ Grüße, 4. Tuch – Tücher, 5. Zug – Züge, 6. Fluss – Flüsse,
 # 20.mp3
 <audio controls loop src="AB/20.mp3"></audio>
 
-`````
+`````de
 ○ Und Sie? Sie sind hier interessiert stehen geblieben. Wie gut ist denn Ihr Deutsch?
 ● Schon ganz gut. Ich bin ja auch schon seit ein paar Monaten in Deutschland. Ich komme aus Italien und habe dort schon Deutsch gelernt. Deutsch ist meine zweite Fremdsprache. Ich finde, dass Deutschlernen viel einfacher ist, wenn man andere Sprachen kann, besonders Englisch.
 ○ Warum denn das?
@@ -251,7 +251,7 @@ Grüße, 4. Tuch – Tücher, 5. Zug – Züge, 6. Fluss – Flüsse,
 # 21.mp3
 <audio controls loop src="AB/21.mp3"></audio>
 
-`````
+`````de
 ○ Und Sie, darf ich Sie auch fragen, was für Sie beim Deutschlernen schwierig ist?
 ● Ich finde den Artikel schwierig. Wie soll man den lernen? Im Deutschen gibt es der, die, das: maskulin, feminin, neutral. Bei uns im Spanischen haben wir nur zwei Artikel. Außerdem haben viele Wörter im Spanischen einen anderen Artikel als im Deutschen: Der Mond ist zum Beispiel im Spanischen feminin, der Tisch auch.
 ○ Und wie haben Sie die deutschen Artikel gelernt?
@@ -262,7 +262,7 @@ Grüße, 4. Tuch – Tücher, 5. Zug – Züge, 6. Fluss – Flüsse,
 # 22.mp3 Aussprache Übung a
 <audio controls loop src="AB/22.mp3"></audio>
 
-`````
+`````de
 1. Miete – Mitte, 2. Bett – Beet, 3. fühlen – füllen,
 4. Ofen – offen, 5. Stadt – Staat, 6. Teller – Täler,
 7. Höhle – Hölle
@@ -271,7 +271,7 @@ Grüße, 4. Tuch – Tücher, 5. Zug – Züge, 6. Fluss – Flüsse,
 # 23.mp3 Aussprache Übung b
 <audio controls loop src="AB/23.mp3"></audio>
 
-`````
+`````de
 Miete – [i:] – Miete
 Mitte – [i] – Mitte
 Bett – [ɛ] – Bett
@@ -291,7 +291,7 @@ Hölle – [œ] – Hölle
 # 24.mp3 Aussprache Übung d
 <audio controls loop src="AB/24.mp3"></audio>
 
-`````
+`````de
 Haare, Wange, Dackel, Spiel, lesen, lachen, Hand,
 Konto, Klammer, Igel, Mann, ziehen, Montag, schnell,
 spannend, Fliege, dringend
@@ -300,7 +300,7 @@ spannend, Fliege, dringend
 # 25.mp3 Kapitel 6 Modul 2 Übung 3
 <audio controls loop src="AB/25.mp3"></audio>
 
-`````
+`````de
 ○ Wer träumt nicht davon, eine tolle Geschäftsidee zu haben und damit viel Geld zu verdienen? Endlich sein eigener Chef sein. Aber das bedeutet auch ein gewisses Risiko. Worauf muss man achten, wenn man sich mit einer Idee selbstständig macht?
 Ganz herzlich begrüßen darf ich zu diesem Thema heute Morgen bei uns im Studio Frau Karen Müller. Schön, dass Sie da sind.
 ● Hallo!
@@ -321,7 +321,7 @@ Wenn man Leute anstellen muss, ist es ganz wichtig, ein gutes Team zu haben, auf
 # 26.mp3 Aussprache Übung a
 <audio controls loop src="AB/26.mp3"></audio>
 
-`````
+`````de
 [ɘ] wie in Tage, [ɐ] wie in Bruder, [ɘn] wie in hören,
 [n] wie in lesen
 1. an manchen Tagen; mitten in einem kleinen Bach
@@ -332,7 +332,7 @@ Wenn man Leute anstellen muss, ist es ganz wichtig, ein gutes Team zu haben, auf
 # 27.mp3 Aussprache Übung c
 <audio controls loop src="AB/27.mp3"></audio>
 
-`````
+`````de
 Zweitjob gesucht?
 Wir bieten interessanten Sommerjob für zuverlässige
 Personen. Wenn Sie Erfahrung mit Nutztierhaltung
@@ -344,7 +344,7 @@ Niederbayern mitzuhelfen, melden Sie sich bitte.
 # 28.mp3 Kapitel 7 Modul 2 Übung 1a
 <audio controls loop src="AB/28.mp3"></audio>
 
-`````
+`````de
 Herzlich willkommen zu einer neuen Ausgabe unserer Ratgebersendung heute zum Thema „Partnervermittlung im Internet“. Im Studio bis 12 für Sie: Anja Beckmann.
 Man sucht und erhält Partnervorschläge online. Jeder Zweite, der einen Partner oder eine Partnerin sucht, macht das mittlerweile im Internet mithilfe von Online-Partnerbörsen. Aber wie erfolgreich ist diese Art der Partnersuche? Entstehen dadurch wirklich Partnerschaften?
 Darüber wollen wir heute in unserer Ratgebersendung sprechen und natürlich wollen wir gerne wissen, welche eigenen Erfahrungen Sie, liebe Hörerinnen und Hörer, mit solchen Partnerbörsen gemacht haben. Berichten Sie uns das – gerne auch anonym – unter unserer kostenlosen Nummer 0800-21 21 04.
@@ -353,7 +353,7 @@ Darüber wollen wir heute in unserer Ratgebersendung sprechen und natürlich wol
 # 29.mp3 Modul 2 Übung 1b und c
 <audio controls loop src="AB/29.mp3"></audio>
 
-`````
+`````de
 ○ Wir haben den ersten Hörer in der Leitung: Mike aus Hannover. Guten Morgen, Mike. Welche Erfahrungen haben Sie denn mit Partnerbörsen im Internet gemacht?
 ● Ja, guten Morgen. Also ganz unterschiedliche. Sie reichen von „empfehlenswert und hilfreich“ bis hin zu „lieber nicht“.
 ○ Wie kommt es, dass Ihre Erfahrungen so unterschiedlich sind?
@@ -372,7 +372,7 @@ Darüber wollen wir heute in unserer Ratgebersendung sprechen und natürlich wol
 # 30.mp3
 <audio controls loop src="AB/30.mp3"></audio>
 
-`````
+`````de
 ○ Wir haben den nächsten Hörer in der Leitung. Guten Morgen nach Brandenburg. Rüdiger? Sind Sie noch dran?
 ● Ja, guten Morgen. Ich rufe an, weil ich über eine bekannte Kontaktbörse meine zukünftige Frau kennengelernt habe. Für mich ist das ein großes Glück. Ich bin mit 63 Jahren nun auch nicht mehr der Jüngste und wollte nach dem Tod meiner Frau, nach so langer Zeit nicht mehr allein bleiben. Ich sehe mich als ein positives Beispiel und will deswegen gerade älteren Menschen die Angst vor dieser Art des Kennenlernens nehmen und Ihnen Mut machen.
 ○ Die haben Angst?
@@ -385,7 +385,7 @@ Darüber wollen wir heute in unserer Ratgebersendung sprechen und natürlich wol
 # 31.mp3
 <audio controls loop src="AB/31.mp3"></audio>
 
-`````
+`````de
 ○ Wir haben eine Hörerin aus Hamburg in der Leitung. Guten Morgen, Julia.
 ● Guten Morgen.
 ○ Julia, du gehörst zu der Generation, die mit dem Internet groß geworden ist. Hast du denn schon Erfahrungen mit Kontaktbörsen gemacht?
@@ -404,7 +404,7 @@ Darüber wollen wir heute in unserer Ratgebersendung sprechen und natürlich wol
 # 32.mp3 Aussprache Übung a und b
 <audio controls loop src="AB/32.mp3"></audio>
 
-`````
+`````de
 ○ Mann, war das ein tolles Fest!
 ● Was? Das war doch furchtbar!
 ○ Wieso? Die Leute waren doch total nett.
@@ -444,7 +444,7 @@ geht ja gar nicht …
 # 35.mp3
 <audio controls loop src="AB/35.mp3"></audio>
 
-`````
+`````de
 ○ Guten Tag, darf ich Sie auch etwas fragen?
 ● Aber gerne.
 ○ Auf welche Erfindung möchten Sie auf gar keinen Fall verzichten?
@@ -462,7 +462,7 @@ geht ja gar nicht …
 # 36.mp3
 <audio controls loop src="AB/36.mp3"></audio>
 
-`````
+`````de
 ○ Guten Tag.
 ● Hallo! Ihr macht eine Umfrage?
 ○ Ja. Auf welche Erfindung möchtest du auf keinen Fall verzichten?
@@ -475,7 +475,7 @@ geht ja gar nicht …
 # 37.mp3 Aussprache Übung a
 <audio controls loop src="AB/37.mp3"></audio>
 
-`````
+`````de
 1. Kommen Sie mit, Frau Schulz?
 2. Das Plakat gefällt mir so super.
 3. Wir kaufen das jetzt Maria.
@@ -485,7 +485,7 @@ geht ja gar nicht …
 # 38.mp3 Aussprache Übung b
 <audio controls loop src="AB/38.mp3"></audio>
 
-`````
+`````de
 1. a Kommen Sie mit Frau Schulz?
 b Kommen Sie mit, Frau Schulz?
 2. a Das Plakat gefällt mir so super.
@@ -499,7 +499,7 @@ b Mach mit beim Kindergarten-Projekt!
 # 39.mp3 Aussprache Übung c
 <audio controls loop src="AB/39.mp3"></audio>
 
-`````
+`````de
 a Sebastian, will Christiane nicht?
 b Sebastian will, Christiane nicht.
 c Hanne, sagt Franz, wird nie klug.
@@ -509,7 +509,7 @@ d Hanne sagt, Franz wird nie klug.
 # 40.mp3 Aussprache Übung e
 <audio controls loop src="AB/40.mp3"></audio>
 
-`````
+`````de
 1. a Gut haben Sie sich entschieden.
 b Gut, haben Sie sich entschieden?
 2. a Du, mein Mann und ich gehen shoppen.
@@ -522,7 +522,7 @@ b Den Kaffee nicht, den Tee.
 # 41.mp3 Kapitel 9 Modul 4 Übung 1
 <audio controls loop src="AB/41.mp3"></audio>
 
-`````
+`````de
 Beispiel: Sie hören eine Nachricht auf einem Anrufbeantworter.
 Guten Tag, Frau Lange, hier spricht Frau Thomas vom Reisebüro Suder. Es geht um Ihre Reise nach Mallorca am 17. Oktober. Leider sind an dem Tag, an dem Sie reisen möchten, alle Flüge ab Hamburg bereits ausgebucht. Könnten Sie vielleicht an einem anderen Tag fliegen? Das wäre eine gute Alternative, denn am 17. Oktober sind auch die Flüge von anderen Flughäfen im Norden wie Bremen oder Hannover nicht optimal. Bitte rufen Sie mich kurz zurück. Sie erreichen mich heute noch bis 18 Uhr und morgen ab 8 Uhr unter 778956. Vielen Dank.
 `````
@@ -530,7 +530,7 @@ Guten Tag, Frau Lange, hier spricht Frau Thomas vom Reisebüro Suder. Es geht um
 # 42.mp3
 <audio controls loop src="AB/42.mp3"></audio>
 
-`````
+`````de
 Text 1: Sie hören eine Durchsage am Bahnhof.
 Achtung an Gleis 8. Es hat Einfahrt der verspätete EuroCity 113 von München Hauptbahnhof nach Salzburg Hauptbahnhof über Rosenheim, Prien am Chiemsee, Traunstein, Freilassing. Planmäßige Abfahrt war 12 Uhr 35. Bitte beachten Sie, dass die elektronische Platzreservierung wegen eines technischen Defekts heute nicht angezeigt werden kann. Bitte geben Sie die Plätze für Personen frei, die eine Reservierung gebucht haben. Wir danken für Ihr Verständnis.
 `````
@@ -538,7 +538,7 @@ Achtung an Gleis 8. Es hat Einfahrt der verspätete EuroCity 113 von München Ha
 # 43.mp3
 <audio controls loop src="AB/43.mp3"></audio>
 
-`````
+`````de
 Text 2: Sie hören eine Meldung im Radio.
 Und hier die aktuellen Verkehrsmeldungen für den kalten Norden. A7 Hannover Richtung Hamburg: 6 Kilometer Stau wegen einer Baustelle am Dreieck Walsrode. Im weiteren Verlauf Behinderungen wegen starken Schneefalls. Und ebenfalls A7 zwischen Anschlussstelle Bispingen und Anschlussstelle Evendorf: Gefahr durch Eis auf der Fahrbahn. Fahren Sie hier besonders vorsichtig, es ist spiegelglatt. A1 Bremen Richtung Cloppenburg: Vor dem Dreieck Stuhr 4 Kilometer stockender Verkehr wegen eines Unfalls. Kommen Sie weiter gut durch den Tag. Radio Nordwest informiert Sie immer aktuell.
 `````
@@ -546,7 +546,7 @@ Und hier die aktuellen Verkehrsmeldungen für den kalten Norden. A7 Hannover Ric
 # 44.mp3
 <audio controls loop src="AB/44.mp3"></audio>
 
-`````
+`````de
 Text 3: Sie hören eine Nachricht auf einem Anrufbeantworter.
 Hier spricht Herr Hansen vom Hotel Alster-Residenz, dies ist eine Nachricht für Herrn Groß. Wie besprochen melden wir uns noch einmal auf Ihre Anfrage für ein Doppelzimmer vom 24. bis 25. November. Wir können Ihnen für diesen Zeitraum ein Standardzimmer für 125,- Euro inklusive Frühstück anbieten. Für die Buchung benötigen wir noch Ihre Kreditkartennummer. Bitte teilen Sie uns diese telefonisch unter 040/8900321933 mit. Danach senden wir Ihnen gerne die schriftliche Buchungsbestätigung. Wir freuen uns auf Ihren Rückruf, auf Wiederhören.
 `````
@@ -554,7 +554,7 @@ Hier spricht Herr Hansen vom Hotel Alster-Residenz, dies ist eine Nachricht für
 # 45.mp3
 <audio controls loop src="AB/45.mp3"></audio>
 
-`````
+`````de
 Text 4: Sie hören einen Hinweis auf einer Flugreise.
 Meine Damen und Herren, wir haben nun unsere Reisehöhe erreicht. Aus Sicherheitsgründen möchten wir darauf hinweisen, dass Sie aber weiter angeschnallt bleiben sollten. In Kürze haben Sie die Möglichkeit, einen preiswerten Imbiss oder auch Getränke bei unserem Servicepersonal zu bestellen. Die Preise entnehmen Sie bitte dem Prospekt an Ihren Plätzen. Wir möchten Sie auch noch auf unsere günstigen Kombiangebote aufmerksam machen: ein Heißgetränk und ein Sandwich Ihrer Wahl für nur 6,50 €. Kalte Getränke erhalten Sie für 2,50 €. Wir wünschen guten Appetit.
 `````
@@ -562,7 +562,7 @@ Meine Damen und Herren, wir haben nun unsere Reisehöhe erreicht. Aus Sicherheit
 # 46.mp3 Aussprache Übung a
 <audio controls loop src="AB/46.mp3"></audio>
 
-`````
+`````de
 Tr – tr – trinken
 Spr – spr – sprechen
 Pr – pr – probieren
@@ -573,7 +573,7 @@ Kr – kr – kratzen
 # 47.mp3 Aussprache Übung b
 <audio controls loop src="AB/47.mp3"></audio>
 
-`````
+`````de
 Im Haus, da bin ich nie allein,
 im Winter kommen Mäuse rein.
 Sie trippeln und trappeln
@@ -587,7 +587,7 @@ und lad’ mir gleich ein Kätzchen ein.
 # 48.mp3 Aussprache Übung d
 <audio controls loop src="AB/48.mp3"></audio>
 
-`````
+`````de
 Spritze, Astronaut, abstrampeln, knusprig, Straße,
 Strom, Astrid, versprechen, Kasper, frustriert,
 anstrengend
@@ -596,7 +596,7 @@ anstrengend
 # 49.mp3 Kapitel 10 Modul 3 Übung 3
 <audio controls loop src="AB/49.mp3"></audio>
 
-`````
+`````de
 ○ Schönen guten Abend hier in unserer Sendung „Jetzt bin ich dran!“. Heute geht es um Grünbrücken. Sie fragen sich vielleicht, was das ist. Ganz einfach, eine Grünbrücke ist eine Brücke über eine stark befahrene Straße. Aber keine Brücke für Menschen –, sondern eine schön bepflanzte Brücke nur für Tiere, die für mehr Sicherheit im Straßenverkehr sorgt. Ich begrüße hier im Studio die beiden leidenschaftlichen Autofahrer Markus Raller und Hella Steger. Frau Steger, was sagen Sie zum Thema Grünbrücken?
 ● Nun ja, ich bin wirklich viel mit dem Auto unterwegs. Da weiß ich natürlich, wie gefährlich Unfälle mit Wildtieren sein können. Aber mir ist noch nie ein Tier vor das Auto gelaufen. Und das, obwohl ich auch oft in der Dämmerung unterwegs bin, und das ist ja bekanntlich die Zeit, in der die meisten Unfälle passieren.
 ○ Herr Raller, Sie fahren ja auch viel mit dem Auto. Ist Ihnen schon mal ein Tier vor das Auto gesprungen?
@@ -617,7 +617,7 @@ Frau Steger und Herr Raller, ich bedanke mich sehr herzlich dafür, dass Sie sic
 # 50.mp3 Aussprache
 <audio controls loop src="AB/50.mp3"></audio>
 
-`````
+`````de
 Die Ostsee in Gefahr
 Die Ostsee – Das ist ein einmaliges Ökosystem. Sie zeichnet sich durch eine große biologische Vielfalt aus und ist für die Menschen in vielerlei Hinsicht wichtig, z. B. für die Ernährung und den Tourismus. Es gibt zahlreiche Naturschutzgebiete und Nationalparks. Umweltschützer fordern jedoch, dass diese Schutzgebiete vergrößert werden.
 Denn 25 Prozent des Meeresbodens gelten als biologisch tot. Die Ostsee gehört damit zu den am stärksten verschmutzten Meeren der Welt. Abwässer, Industrieabfälle und Düngestoffe werden im Meer entsorgt. Es bilden sich immer wieder giftige Algenteppiche und viele Meeresbewohner sterben. In vielen Ostseegebieten gibt es kaum noch Fische. Außerdem ist die Ostsee ein Binnenmeer, so bleiben die Gifte auch sehr lange im Ostseewasser. Das Wasser kann sich nicht so schnell erneuern wie in anderen Meeren.
