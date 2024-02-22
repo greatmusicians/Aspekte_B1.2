@@ -66,6 +66,13 @@ Wir wollten auch gern eure Meinung zum Thema „Freundschaft“ wissen und haben
 Hallo, ich heiße Mira und komme aus Berlin. Also, meine beste Freundin kenne ich schon seit über zwanzig Jahren. Wir sind schon zusammen zur Grundschule gegangen. Wir können über alles reden,über unsere Wünsche und unsere Probleme. Manchmal haben wir natürlich auch unterschiedliche Meinungen. Aber mit  einer guten Freundin sollte man sich auch streiten können, ohne dass die Freundschaft zerbricht. Wichtig ist, dass man dann wieder zusammen lachen kann. Vor einem halben Jahr ist Laura leider aus beruflichen Gründen nach Hamburggezogen. Jetzt sehen wir uns natürlich nur noch selten. Aber wir skypen alle zwei Tage, so wissen wir immer noch,  was im Leben der anderen los ist.
 `````
 
+`````
+zerbrechen, zerbricht, (关系)破裂
+既可以物作主语，也可以人作主语、物作宾语？？？？？？？
+
+
+`````
+
 # 1_04.mp3
 <audio controls loop src="LB/1_04.mp3"></audio>
 
