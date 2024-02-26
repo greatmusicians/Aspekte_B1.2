@@ -63,14 +63,12 @@ dies und das = this and that
 `````de
 Wir wollten auch gern eure Meinung zum Thema „Freundschaft“ wissen und haben ein paar Anrufe gesammelt.
 
-Hallo, ich heiße Mira und komme aus Berlin. Also, meine beste Freundin kenne ich schon seit über zwanzig Jahren. Wir sind schon zusammen zur Grundschule gegangen. Wir können über alles reden,über unsere Wünsche und unsere Probleme. Manchmal haben wir natürlich auch unterschiedliche Meinungen. Aber mit  einer guten Freundin sollte man sich auch streiten können, ohne dass die Freundschaft zerbricht. Wichtig ist, dass man dann wieder zusammen lachen kann. Vor einem halben Jahr ist Laura leider aus beruflichen Gründen nach Hamburggezogen. Jetzt sehen wir uns natürlich nur noch selten. Aber wir skypen alle zwei Tage, so wissen wir immer noch,  was im Leben der anderen los ist.
+Hallo, ich heiße Mira und komme aus Berlin. Also, meine beste Freundin kenne ich schon seit über zwanzig Jahren. Wir sind schon zusammen zur Grundschule gegangen. Wir können über alles reden,über unsere Wünsche und unsere Probleme. Manchmal haben wir natürlich auch unterschiedliche Meinungen. Aber mit  einer guten Freundin sollte man sich auch streiten können, ohne dass die Freundschaft zerbricht. Wichtig ist, dass man dann wieder zusammen lachen kann. Vor einem halben Jahr ist Laura leider aus beruflichen Gründen nach Hamburg gezogen. Jetzt sehen wir uns natürlich nur noch selten. Aber wir skypen alle zwei Tage, so wissen wir immer noch,  was im Leben der anderen los ist.
 `````
 
 `````
 zerbrechen, zerbricht, (关系)破裂
 既可以物作主语，也可以人作主语、物作宾语？？？？？？？
-
-
 `````
 
 # 1_04.mp3
@@ -78,6 +76,15 @@ zerbrechen, zerbricht, (关系)破裂
 
 `````de
 Ja, also ich bin der Felix. Natürlich hat das Internet mit seinen Netzwerken viel verändert. Also, ich schaue schon jeden Tag mehrmals auf meine Facebookseite, was so los ist. Dass die 200 Leute da nicht alle enge Freunde sind, ist doch total klar. Aber man kann einfach mit vielen Leuten in Kontakt sein und auf dem Laufenden bleiben. Ich habe eigentlich nur drei wirklich enge Freunde. Matti kenne ich schon seit meiner Kindheit. Jakob habe ich an der Uni kennengelernt und Elias ist wie ich im Volleyballverein. Auf diese drei kann ich mich echt verlassen, egal was passiert, sie sind da. Wir helfen uns, wo wir können. Das ist wichtig. Und wir sehen uns oft, nicht nur online. Da aber auch.
+`````
+
+`````
+in Kontakt sein 是对的，不能用im
+
+(über etw.) auf dem Laufenden bleiben 了解最新的消息
+stets über den aktuellen Stand einer Situation informiert sein
+
+Da aber auch. 估计是在呼应前面的 Das ist wichtig.
 `````
 
 # 1_05.mp3
@@ -89,11 +96,54 @@ Mein Name ist Julia Gantner und ich wohne im Moment in Potsdam. Im Gegensatz zur
 Da haben wir ja ganz verschiedene Aspekte zu unserem Tagesthema gehört. Und bevor es weitergeht, erst mal wieder ein bisschen Musik von den …
 `````
 
+`````
+sich (Dat.) etwas aussuchen 挑选，找
+Er hat sich einen Stein als Sitz ausgesucht.
+
+jetzig 现在的，当前的，现存的
+`````
+
+`````
+Das Wichtigste bei einer Freundschaft ist für mich, dass man sich respektiert und toleriert, wenn einer mal eine andere Meinung hat.
+
+For me, the most important thing in a friendship is that you respect and tolerate each other when someone has a different opinion.
+对我来说，友谊中最重要的是当有人有不同意见时互相尊重和包容。
+
+respektiere 尊重
+tolerieren 容忍，宽容
+这两个词并没有查到 refleksives Verb 用法，为什么这里用sich，可以表达出“互相尊重和包容”的意思呢？
+
+
+Man muss sich vertrauen können und ich finde es wichtig, dass man immer ehrlich zueinander ist.
+You have to be able to trust each other and I think it's important that you are always honest with each other.
+你们必须能够相互信任，我认为始终对彼此诚实很重要。
+
+这里 sich vertrauen 也表达出了类似的意思。
+
+关键点在于 man 的含义，查了DWDS，确实可以用来表示 wir。所以，man 在形式上是单数，但是在含义上可以表示复数。
+`````
+
 # 1_06.mp3 Modul 3 Aufgabe 1b
 <audio controls loop src="LB/1_06.mp3"></audio>
 
 `````de
 Wenn ich an Helden denke, dann fallen mir sofort Persönlichkeiten wie Albert Einstein oder Mahatma Gandhi ein. Für mich sind Helden Menschen, die etwas Großartiges geleistet haben. Das kann eine Entdeckung oder eine Erfindung sein; etwas, was unser Leben revolutioniert bzw. vereinfacht hat. Aber auch Leute, die anderen Menschen in großer Not geholfen haben oder die sich für andere eingesetzt haben, sind für mich Helden. Ein Held ist meiner Meinung nach wirklich nur jemand, der eine große Tat vollbracht hat.
+`````
+
+`````
+einfallen 突然想起
+Mir fällt nichts Besseres ein.
+我想不出什么好主意。
+
+Persönlichkeit 人物，人士；个性，品格
+
+leisten 完成，做（似乎非常褒义的词，常与贡献、成绩连用）
+sich etw. leisten Können 买得起某物
+
+Entdeckung 发现（已有的，比如自然规律）
+Erfindung 发明，创造（以前没有的，新创造出来的）
+vereinfachen = etw. einfacher machen
+vollbringen 完成，实现
 `````
 
 # 1_07.mp3
