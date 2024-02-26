@@ -96,6 +96,12 @@ Mein Name ist Julia Gantner und ich wohne im Moment in Potsdam. Im Gegensatz zur
 Da haben wir ja ganz verschiedene Aspekte zu unserem Tagesthema gehört. Und bevor es weitergeht, erst mal wieder ein bisschen Musik von den …
 `````
 
+`````en
+My name is Julia Gantner and I currently live in Potsdam. In contrast to family, you can choose friends. I don't have much contact with my friends from school anymore. I actually met all of my current friends at work. For me, the most important thing in a friendship is that you respect and tolerate each other when someone has a different opinion. You have to be able to trust each other and I think it's important that you are always honest with each other.
+
+We heard very different aspects of our topic of the day. 
+`````
+
 `````
 sich (Dat.) etwas aussuchen 挑选，找
 Er hat sich einen Stein als Sitz ausgesucht.
@@ -128,6 +134,10 @@ You have to be able to trust each other and I think it's important that you are 
 
 `````de
 Wenn ich an Helden denke, dann fallen mir sofort Persönlichkeiten wie Albert Einstein oder Mahatma Gandhi ein. Für mich sind Helden Menschen, die etwas Großartiges geleistet haben. Das kann eine Entdeckung oder eine Erfindung sein; etwas, was unser Leben revolutioniert bzw. vereinfacht hat. Aber auch Leute, die anderen Menschen in großer Not geholfen haben oder die sich für andere eingesetzt haben, sind für mich Helden. Ein Held ist meiner Meinung nach wirklich nur jemand, der eine große Tat vollbracht hat.
+`````
+
+`````en
+When I think of heroes, I immediately think of people like Albert Einstein or Mahatma Gandhi. For me, heroes are people who have achieved something great. This can be a discovery or an invention; something that has revolutionized or simplified our lives. But people who have helped other people in great need or who have stood up for others are also heroes for me. In my opinion, a hero is really just someone who has accomplished a great deed.
 `````
 
 `````
