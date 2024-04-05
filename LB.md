@@ -163,11 +163,55 @@ vollbringen 完成，实现
 Also, ich glaube, Helden sind in unserer Gesellschaft nur noch diejenigen, die von den Medien anerkannt und präsentiert werden. Ich habe jedenfalls selten erlebt, dass im privaten Kreis oder in der Nachbarschaft jemand für seinen selbstlosen Einsatz gelobt wurde, z. B. für seine ehrenamtliche Tätigkeit beim Roten Kreuz oder einem ähnlichen Verein. Aber unser Respekt sollte grade diesen „Helden im Alltag“ gehören, auch wenn sie es nicht in die Zeitung geschafft haben oder ins Fernsehen. Für mich ist auch jemand ohne diese gesellschaftliche Anerkennung ein Held. Ein Held braucht meiner Meinung nach kein Publikum.
 `````
 
+`````en
+So, I think heroes in our society are only those who are recognized and presented by the media. In any case, I have rarely experienced someone being praised for their selfless efforts in private circles or in the neighborhood, e.g. B. for his voluntary work with the Red Cross or a similar organization. But our respect should go to these “everyday heroes”, even if they didn’t make it into the newspaper or on television. For me, someone without this social recognition is also a hero. In my opinion, a hero doesn't need an audience.
+`````
+
+`````
+derjenige 这样的人/物。指示代词，后接关系从句
+https://de.wiktionary.org/wiki/derjenige
+Es bezieht sich auf etwas, das in einem folgenden Relativsatz genauer bestimmt wird.
+
+diejenigen
+Nominativ (oder Akkusativ) Plural des Demonstrativpronomens derjenige.
+
+anerkannt DWDS上的发音，an和er没有连读。但在这个音频中，是连读了的
+selbstlos 无私的
+loben 称赞，表扬
+
+der Respekt [re`spεkt, rεs`pεkt] 但是无论DWDS还是这个音频中，听起来都更像是 [rəs`pεkt]
+`````
+
 # 1_08.mp3
 <audio controls loop src="LB/1_08.mp3"></audio>
 
 `````de
 Wenn ich an Helden denke, dann fallen mir sofort die Hauptfiguren aus Geschichten, Legenden, Sagen oder Filmen ein, die meist über Kräfte verfügen, die weit über die eines normalen Menschen hinausgehen. Nur dadurch waren sie zu Heldentaten fähig, die ihnen Ruhm und Anerkennung eingebracht haben. Ich denke da z. B. an Jeanne d’Arc. Das war eine Heldin! Heute wird die Bezeichnung „Held“ zu schnell verwendet. Die Heldentat ist heute oft eine ganz gewöhnliche Tat.
+`````
+
+`````
+die Legende [leˈgɛndə] 传说
+die Sage 传说
+das Märchen 童话
+
+Legenden und Sagen unterscheiden sich darin, dass Sagen keinen religiösen Inhalt haben.
+religiös [reli`giø:s] 宗教的
+Legenden wurden häufig niedergeschrieben, Sagen hingegen werden mündlich weitergegeben.
+
+Legende 关于历史人上真实人物的奇幻故事，典型的例子是圣人的传说，其中讲述了圣人的神奇事迹
+Sage 发生在真实地点的奇幻事件，比如城市的建立传说
+
+über etwas verfügen 支配，利用，使用
+über etwas hinausgehen 超过
+
+..., die weit über die eines normalen Menschen hinausgehen
+两个 die 都指的是前面的 Kräfte，weit 表示远远超过，eines normalen Menschen 是 Genitiv，Menschen 是因为 n-Deklination
+
+der Ruhm 荣誉，声望
+
+Jeanne d'Arc [ʒanˈdaʁk] 法语，圣女贞德
+Bezeichnung 名称，符号，标记
+gewöhnlich 一般的，平凡的，日常的
 `````
 
 # 1_09.mp3 Modul 4 Aufgabe 3
