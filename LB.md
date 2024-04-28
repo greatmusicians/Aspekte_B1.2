@@ -218,11 +218,38 @@ gewöhnlich 一般的，平凡的，日常的
 <audio controls loop src="LB/1_09.mp3"></audio>
 
 `````de
-Guten Morgen, liebe Hörerinnen und Hörer. Ob Sie es glauben oder nicht: Glück und Zufriedenheit lassen sich messen. Zum zweiten Mal wurde der Glücksatlas erstellt, der entscheidende Zahlen und Daten zur Zufriedenheit der Deutschen offenlegt. Das Ergebnis lässt sich leicht zusammenfassen: Wir Deutschen sind glücklicher geworden.
-Wir wollten das Ergebnis überprüfen und haben uns auf der Straße umgehört. Wir wollten von Passanten wissen:
-Sind Sie zurzeit glücklich? Hier die Antworten:
+Guten Morgen, liebe Hörerinnen und Hörer. Ob Sie es glauben oder nicht: Glück und Zufriedenheit lassen sich messen. Zum zweiten Mal wurde der Glücksatlas erstellt, der entscheidende Zahlen und Daten zur Zufriedenheit der Deutschen offenlegt. Das Ergebnis lässt sich leicht zusammenfassen: Wir Deutschen sind glücklicher geworden. Wir wollten das Ergebnis überprüfen und haben uns auf der Straße umgehört. Wir wollten von Passanten wissen: Sind Sie zurzeit glücklich? Hier die Antworten:
 Nummer 1
 Tja, also, ich bin seit einem Jahr wieder richtig glücklich. Ich bin alleinerziehende Mutter von zwei Kindern. Meine Ehe dauerte 10 Jahre. Das war nicht immer eine schöne Zeit. Es gab viel Streit und am Ende blieb nur die Scheidung. Vor einem Jahr habe ich meinen Freund kennengelernt. Er gibt mir sehr viel Kraft, wir sind schon eine richtige Familie und ich bin mit meinem Leben wieder zufrieden. Ich glaube, deshalb läuft auch beruflich alles viel besser, weil ich ausgeglichener bin.
+`````
+
+`````
+offenlegen 公开，公布
+sich umhören (四处)询问，打听 = umfragen
+der Passant, die Passantin [paˈsant] [法语]行人，路人
+die Kraft 力量
+ausgeglichen 平稳的，平和的 = harmonisch
+`````
+
+`````
+Glück und Zufriedenheit lassen sich messen.
+Happiness and satisfaction can be measured.
+
+Wie lassen sich Schmerzen messen?
+
+„Sich lassen“ kann in der 3. Person auch als Ersatz für das Passiv benutzt werden.
+https://easy-deutsch.de/verben/lassen/
+`````
+
+`````
+Der Glücksatlas ist eine seit dem Jahr 2011 jährlich erscheinende Studie zu Lebenszufriedenheit und Glücksgefühl der Bevölkerung Deutschlands im Rahmen der Glücksforschung. Für den Glücksatlas werden Personen in Deutschland in repräsentativen Umfragen per Selbsteinschätzung nach der Bewertung ihrer Lebenssituation gefragt. Unterschiede in der Bewertung der Lebenssituation nach Region, Altersgruppe, Geschlecht und weiteren Kriterien werden ebenfalls erfasst und erforscht.
+
+https://de.wikipedia.org/wiki/Gl%C3%BCcksatlas
+`````
+
+`````
+Es gab viel Streit und am Ende blieb nur die Scheidung.
+There were a lot of arguments and in the end the only option was a divorce.
 `````
 
 # 1_10.mp3 Nummer 2
@@ -232,11 +259,43 @@ Tja, also, ich bin seit einem Jahr wieder richtig glücklich. Ich bin alleinerzi
 Ja, hallo, ich bin Thomas. Zurzeit geht bei mir alles schief. Ich bin noch in der Ausbildung und diese ganze Theorie nervt mich einfach. Ich habe gedacht, dass man nach der Schule endlich ins Arbeitsleben starten kann. Aber genau das Gegenteil ist der Fall: wieder lernen, nichts als lernen. Ich habe dazu einfach keine Lust mehr. Aber mein Ausbilder hat gesagt, dass ich ohne die Theorie in der Berufsschule keinen Abschluss bekomme und dass ich mich mehr anstrengen muss. Also, was soll ich machen?
 `````
 
+`````
+schief 斜的，歪的，走了样的
+nerven [`nεrfn] 使心情烦躁
+jmd./etw. nervt jmdn. 
+
+nichts als = nothing but
+drückt eine Ausschließlichkeit aus im Sinne von „nichts anderes als, nichts weiter als, nichts außer, nur“
+
+der Ausbilder 培训者，教练
+sich anstrengen 努力，尽力，想方设法
+`````
+
+`````
+ins Arbeitsleben starten
+
+So gelingt der Start ins Berufsleben.
+
+这种说法google能搜到不少。
+`````
+
 # 1_11.mp3 Nummer 3
 <audio controls loop src="LB/1_11.mp3"></audio>
 
 `````de
 Also, ich bin Anne und bin gerade richtig glücklich. Ich studiere seit drei Semestern Medizin. Das ist das, was ich schon immer wollte. Ich hatte Riesenglück, einen Studienplatz zu bekommen, denn die Anzahl der Plätze ist begrenzt. Dass ich sogar in Berlin studieren kann, ist super. Die Stadt gefällt mir unheimlich gut. Die Miete ist zwar nicht so billig, aber man hat dafür jede Menge Kultur. Außerdem liegt Berlin sehr günstig: Mit dem Zug brauche ich nur zwei Stunden zu meinen Eltern.
+`````
+
+`````
+Riesenglück = sehr großes Glück
+
+begrentzt = limited
+nicht unendlich groß, weit, umfassend; auf ein gewisses Maß beschränkt
+
+unheimlich 非常，很
+
+jede Menge
+umgangssprachlich: sehr viel, in großer Zahl
 `````
 
 # 1_12.mp3 Nummer 4
@@ -246,11 +305,45 @@ Also, ich bin Anne und bin gerade richtig glücklich. Ich studiere seit drei Sem
 Da fragen Sie den Richtigen! Ich bin alles andere als glücklich. Ich habe vor zwei Jahren meinen Arbeitsplatz verloren, seitdem suche ich eine neue Arbeit. Aber in meinem Alter ist das überhaupt nicht einfach. Viele Firmen wollen am liebsten junge Leute mit viel Erfahrung. Aber wie soll das gehen? Ich verstehe nicht, warum man älteren Leuten keine Chance gibt? Die Arbeitsagentur hat gesagt, dass ich eine Weiterbildung machen soll. Aber in meinem Alter noch mal die Schulbank drücken? Also, ich weiß nicht …
 `````
 
+`````
+Da fragen Sie den Richtigen!
+den Richtigen 这里是单数的Akk，问对人(男性)了
+
+alles andere als = gar nicht, absolut nicht = anything but
+
+Aber wie soll das gehen?
+how does that work? how will that work? how is that possible?
+
+die Schulbank drücken
+umgangssprachlich: zur Schule gehen
+`````
+
 # 1_13.mp3 Nummer 5
 <audio controls loop src="LB/1_13.mp3"></audio>
 
 `````de
 Ich freue mich, dass Sie mich ansprechen. Ich bin nämlich schon 70 und das hohe Alter hat ja bekanntlich nicht den allerbesten Ruf. Die meisten Menschen denken da eher an Stillstand, Rückzug und Verlust. Das kann ich aber gar nicht verstehen. Ich bin noch sehr aktiv, reise gern, passe auf meine Enkel auf und gehe meinen Hobbys nach. Ich kann also sagen: Ja, ich bin glücklich. Und ich glaube, das liegt daran, dass man als alter, erfahrener Mensch das Leben positiver sieht.
+`````
+
+`````
+ansprechen 打招呼，同...攀谈
+der Stillstand 停滞
+der Rückzug 败退
+der Verlust 损失
+nachgehen + Dativ 跟随；从事，致力于
+erfahren adj. 有经验的
+`````
+
+`````
+Das hohe Alter hat ja bekanntlich nicht den allerbesten Ruf.
+It is well known that old age does not have the best reputation.
+
+Junge Erwachsene unter 25 Jahren haben in der Arbeitswelt nicht den allerbesten Ruf.
+Schlafsofas haben ja nicht den allerbesten Ruf.
+Ämter haben nicht den allerbesten Ruf.
+Die Bundeswehr genießt in Deutschland nicht den allerbesten Ruf.
+Gerade wird eine Generation Kinder erwachsen, deren Eltern nicht den allerbesten Ruf haben.
+Die deutschen Produkte hatten bis Mitte/ Ende der 1880er Jahre noch nicht den allerbesten Ruf.
 `````
 
 # 1_14.mp3 Kapitel 2 Modul 1 Aufgabe 1a
@@ -269,6 +362,30 @@ Maria: Ja, die Wohnung ist ein bisschen teurer, aber dafür fühle ich mich hier
 Anna: Hm, das kann ich gut verstehen!
 Maria: Hast du Lust auf einen Kaffee?
 Anna: Ja, gern. Erzähl doch mal: Wie hast du die Wohnung eigentlich gefunden? …
+`````
+
+`````
+auspacken 打开包装
+zerreißen 撕破
+die Mülltonne 垃圾箱，在房子外面，用于放生活垃圾
+drüben 那边，对面
+`````
+
+`````
+Ich war einkaufen.
+我刚才买东西去了。
+
+sein + Infinitiv
+Diese Form ist das Präteritum der Verlaufsform.
+Diese grammatische Erscheinung wird auch Absentiv genannt.
+
+首先可以肯定的是，类似Er war schwimmen.在德语口语中是广泛存在的。德语母语者常说。
+但在语法体系里一直没有自己的位置，属于“黑户”。
+直到2000年，一位荷兰语言学家把它划归到“体”（Aspekt）的范畴，并取名为Absentiv。即正文开头的sein + Inf.的结构，用来解释某人不在场的原因。
+使用Absentiv时要注意它须满足一个条件：即不在场的人还会回来。
+
+"Warst du joggen? 是你回到WG、舍友看到你穿着运动服满头大汗的提问。
+与中文“你跑步去了吗？”语境完全对应。
 `````
 
 # 1_16.mp3 Modul 2 Aufgabe 3
@@ -300,6 +417,59 @@ Andreas: Im Moment bezahlt das Sozialamt die Miete. Aber ich hoffe, dass ich auc
 Moderator: Klaus, macht Ihnen Andreas’ Geschichte Mut?
 Andreas: Ja, schon. Vielleicht sollte ich mich da auch mal erkundigen. Aber vielleicht bin ich auch schon zu lange auf der Straße. Ich glaube, so ein bürgerliches Leben ist auch nichts mehr für mich. Na ja, mal sehen, was noch kommt.
 Moderator: Ich danke Ihnen beiden für das Gespräch und wünsche Ihnen alles Gute.
+`````
+
+`````
+brisant [bri`zant] 爆炸性的，引起争论的
+Speditionskaufmann 货运代理
+Spedition 货物运输
+versetzen 调动...的职位(或工作)，调任
+jdn. entlassen 解雇某人 = jdm. kündigen
+klarkommen 能胜任，能对付，能相处
+Intrige [in`tri:gə] 阴谋，诡计
+
+sich mit etw. abfinden = sich mit etw. zufriedengeben
+对某事表示满意
+landen 着陆，降落
+tagsüber 白天
+auftreiben (费了很大劲)搞到，弄到，找到
+Suppenküche 慈善厨房
+
+sich den Ärger/Frust/Kummer runterspülen
+Frust 失望，失意
+Kummer 忧愁
+versuchen, den Ärger/Kummer mit Alkohol zu kompensieren; aus Frust trinken
+Redensarten上有sich，本文、DWDS上不用sich
+
+die Scheidung einreichen 提出、提交、要求离婚
+sich aufhalten 逗留，停留
+aushalten 忍受住，坚持下去，呆下去（多用于否定或问句）
+der Antrag 申请，申请表
+
+etw. in den Griff bekommen
+umgangssprachlich
+etw. unter Kontrolle bekommen, eine Lösung für etw. finden
+etw. beherrschen, bewältigen
+
+für j-n/etw.(A) aufkommen 承担支付费用的责任
+sich nach j-m / etw. erkundigen 询问，打听，了解
+
+bürgerlich 市民的，普通的，平凡的
+`````
+
+`````
+ein ruhiges Leben führen, ein normales Leben führen
+过着...的生活
+
+to lead a life of indulgence 过着放纵的生活
+
+To be successful is to lead a life that you intend to and enjoy, not a life necessarily with a lot of money.
+`````
+
+`````
+Ich war ja noch relativ neu hier in der Stadt und hatte auch keine Freunde, bei denen ich hätte wohnen können.
+
+这个 Relativsatz 的动词 hätte 为什么不在句尾呢？
 `````
 
 # 1_17.mp3 Modul 4 Aufgabe 3
