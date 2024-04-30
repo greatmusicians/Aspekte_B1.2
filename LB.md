@@ -486,11 +486,40 @@ Konstantin: Ich bin von zu Hause ausgezogen, als ich 18 Jahre alt war, also vor 
 Isabell: Solange ich noch in der Ausbildung bin, bleibe ich bei meinen Eltern. Letztes Jahr habe ich eine Banklehre angefangen. Ich verdiene zwar nicht so schlecht, aber wenn ich ausziehen würde, müsste ich auf mein Auto verzichten, weil eine eigene Wohnung einfach zu teuer ist. Den Urlaub mit meinen Freunden könnte ich mir wahrscheinlich auch nicht mehr leisten. Und eigentlich finde ich es ganz praktisch, dass ich mich um nichts kümmern muss. So steht jeden Tag ein Essen auf dem Tisch und für saubere Wäsche ist auch gesorgt. Trotzdem versuche ich, ein bisschen Geld zu sparen für meine spätere Wohnung.
 `````
 
+`````
+eigentlich 其实，究竟，到底；真正的，真实的
+
+Für saubere Wäsche ist auch gesorgt.
+Clean laundry is also provided.
+für jn./etw. sorgen 照顾，负责
+`````
+
 # 1_19.mp3
 <audio controls loop src="LB/1_19.mp3"></audio>
 
 `````de
 Tobi: Bei meinen Eltern hat es mir ganz gut gefallen und ich hatte gar nicht vor auszuziehen. Aber als ich Christina kennengelernt habe, wollte ich am liebsten immer mit ihr zusammen sein. Also war sie ständig bei uns, was meine Eltern nach einer Weile ziemlich gestört hat. Die Konsequenz war, dass ich ausgezogen bin und wir uns zusammen eine Wohnung gesucht haben. Sie ist zwar klein, aber gemütlich. Und ich kann immer mit meiner Freundin zusammen sein, ohne dass meine Mutter uns kontrolliert. Aber wahrscheinlich sind meine Eltern auch ganz froh, dass endlich alle Kinder aus dem Haus sind und sie ihre Ruhe haben.
+`````
+
+`````
+die Konsequenz [kɔnze`kvεnts] 结果，后果
+`````
+
+`````
+Bei meinen Eltern hat es mir ganz gut gefallen.
+I really liked it with my parents.
+
+= Es gefällt mir gut.
+
+fallen -> ist gefallen
+gefallen -> hat gefallen
+`````
+
+`````
+Also war sie ständig bei uns, was meine Eltern nach einer Weile ziemlich gestört hat.
+So she was with us all the time, which really bothered my parents after a while.
+
+nach einer Weile = after a while
 `````
 
 # 1_20.mp3 Kapitel 3 Modul 2 Aufgabe 1b
@@ -520,10 +549,83 @@ Moderator: Wissen schützt also nicht vor falscher Ernährung?
 Herr Lözl: So scheint es … Aber ob nun billig oder bio, bei allen Konsumtypen kann man ein weiteres Phänomen beobachten.
 Moderator: Welches denn?
 Herr Lözl: Also, erschreckend ist, dass immer mehr Lebensmittel, auch gute und frische Ware, im Müll landen. Jeder Bürger wirft pro Jahr mehr als 80 Kilo einfach weg. Das sind 6,7 Millionen Tonnen pro Jahr und über 60 % der gesamten Lebensmittelabfälle. Der Rest kommt aus der Gastronomie, aus Supermärkten, Kantinen usw.
-Moderator: 6,7 Millionen Tonnen, meine Damen und Herren, das ist eine beachtliche Zahl.
-Was kann man Ihrer Meinung nach dagegen tun?
-Haben Sie ein paar Informationen und Tipps für uns?
+Moderator: 6,7 Millionen Tonnen, meine Damen und Herren, das ist eine beachtliche Zahl. Was kann man Ihrer Meinung nach dagegen tun? Haben Sie ein paar Informationen und Tipps für uns?
 Herr Lözl: Ja, auf jeden Fall. Ich möchte als Erstes auf eine Aktion im Internet hinweisen, die das Bundesministerium …
+`````
+
+`````
+ergeben 得出，表明
+Widersprüche -> der Widerspruch 矛盾，异议
+die Tendenz 趋势，趋向
+der Metzger 屠夫
+wöchentlich 每周一次的
+das Fertiggericht 熟菜，方便食品（放进烤箱或者微波炉内加热便可以食用）
+die Tiefkühlkost 冷冻食品
+greifen 抓住
+zu etw. greifen = to reach for sth = 去拿etw.
+drin = darin = 在这里面
+immerhin 毕竟，至少
+die Etikette 标签，牌子
+das Eiweiß 蛋白质
+das Phänomen [fεno`me:n] 现象
+erschreckend 可怕的，恐怖的
+der Abfall 垃圾，废物
+Lebensmittelabfälle -> Lebensmittelabfall 厨余垃圾
+die Gastronomie 餐饮业，饮食行业
+beachtlich 相当大的，值得注意的
+`````
+
+`````
+Was steht dem gegenüber?
+另一方面是什么？ 语境是前面用到了 einerseits
+
+gegenüber 在...对面
+支配第三格。支配名词时，放在前或后；支配代词，则放在后面
+
+Die Apotheke steht gegenüber der Schule.
+= Die Apotheke steht der Schule gegenüber.
+
+Dem steht gegenüber, dass Heroinsucht nichts anderes als Tod auf Zeit ist.
+`````
+
+`````
+Bio-Europameister 生态方面的欧洲冠军
+
+Österreich ist Europameister in Sachen Bio.
+Österreich ist Bio-Europameister!
+
+der Europameister [体]欧洲冠军
+`````
+
+`````
+Da scheint es eine Gruppe zu geben, der Qualität wichtiger ist als der Preis.
+第一个 der 引导的是 Relativsatz，指的是 eine Gruppe
+第二个 der 是定冠词， der Preis
+`````
+
+`````
+Das hängt vielleicht auch damit zusammen, dass immer mehr Menschen sagen, dass sie wegen der Arbeit wenig Zeit für den Einkauf haben.
+This may also be due to the fact that more and more people say that they have little time for shopping because of work.
+
+Das hängt damit zusammen, dass ...
+This is due to the fact that ...
+`````
+
+`````
+Viele bezeichnen sich als richtige Kochmuffel.
+Many people describe themselves as really reluctant to cook.
+
+"Muffel" kann man an so ziemlich alle Aktivitäten anhängen.
+
+Kochmuffel
+Sportmuffel
+etc.
+
+Es bezeichnet jemanden der faul oder unmotiviert ist.
+
+Ein Kochmuffel kocht nicht gerne bzw. ist zu faul zu kochen.
+Ein Sportmuffel macht nicht gerne oder oft Sport.
+etc.
 `````
 
 # 1_21.mp3 Modul 2 Aufgabe 2b
@@ -532,14 +634,15 @@ Herr Lözl: Ja, auf jeden Fall. Ich möchte als Erstes auf eine Aktion im Intern
 `````de
 Sie hören nun ein Gespräch in einer Wohngemeinschaft. Lesen Sie dazu die Aussagen 1 bis 7. Wählen Sie: Welche Aussage ist falsch? Welche Aussage ist richtig?
 Hannes: Na, Thorsten? Was machste denn gerade?
-Thorsten: Hallo Hannes! Ich hab’ grade eine Aktion zum Thema Essen im Internet recherchiert.
+Thorsten: Hallo Hannes! Ich hab’ gerade eine Aktion zum Thema Essen im Internet recherchiert.
 Hannes: Aha … was denn? Ein neues Pizzarezept?
 Thorsten: Haha, voll witzig! Nee. Ich hab’ heute im Radio von der Aktion „Zu gut für die Tonne“ gehört und das hab’ ich mir auf der Seite vom Bundesministerium angesehen. Hast du gewusst, dass wir in Deutschland pro Nase und Jahr mehr als 80 Kilo Lebensmittel wegschmeißen?
 Hannes: Ganz schön viel. Aber wir schmeißen ja auch echt ’ne Menge weg. Gestern das Brot, heute die alten Joghurts …
-Thorsten:Und genau darum geht es. Wir schmeißen nämlich jedes achte Lebensmittel weg, das wir gekauft haben. Hannes: Echt? Na, das können wir beide uns doch gar nicht leisten.
+Thorsten: Und genau darum geht es. Wir schmeißen nämlich jedes achte Lebensmittel weg, das wir gekauft haben.
+Hannes: Echt? Na, das können wir beide uns doch gar nicht leisten.
 Thorsten: Finde ich auch. Und bei der Aktion bekommen die Leute Tipps, wie sie auch aus Resten noch was Gutes kochen können. Du gibst einfach ein, was noch im Kühlschrank ist, und bekommst Vorschläge, was du damit kochen kannst.
 Hannes: Hört sich ganz gut an.
-Thorsten:Aber wichtiger als kochen ist auch, richtig einzukaufen. Also nicht nach Lust und Laune, sondern mit Plan.
+Thorsten: Aber wichtiger als kochen ist auch, richtig einzukaufen. Also nicht nach Lust und Laune, sondern mit Plan.
 Hannes: Die meinen also, wenn man ohne Plan einkaufen war, hat man vielleicht nicht das Richtige oder das Wichtige gekauft?
 Thorsten: Genau, man soll eben nicht weniger, sondern geplanter einkaufen. Also z. B. erst nachsehen, was man noch im Kühlschrank hat, dann überlegen, was man kochen will und was man noch braucht, und dann den Einkaufszettel schreiben. Und beim Einkaufen auch nur das kaufen, was auf dem Einkaufszettel steht.
 Hannes: Stimmt schon, ich kaufe eigentlich lieber nach Lust und Laune ein. Aber dann habe ich selten das Richtige zu Hause …
@@ -554,6 +657,24 @@ Thorsten: Du kannst auf die Homepage gehen, aber du kannst die Rezepte und Tipps
 Hannes: Cool!
 Thorsten: Ja, ist ganz witzig. Kuck mal, da machen auch viele Politiker und Prominente mit.
 Hannes: Ey, den kenn’ ich aus dem Fernsehen, zeig mal …
+`````
+
+`````
+pro Nase und Jahr 每人每年
+wegschmeißen 扔掉(不需要的东西)
+lagern 贮存，存放
+einfrieren 冷冻
+
+rumsurfen = herumsurfen
+rum 是herum的口语缩写
+längere Zeit im Internet nach Informationen suchen, indem man durch das Anklicken von Hyperlinks nach und nach Webseiten aufruft.
+`````
+
+`````
+Zu gut für die Tonne!
+扔掉太可惜了！是一个致力于减少食物浪费的项目。
+
+Nach 2,5 Jahren Projektlaufzeit wurde das Projekt "Zu gut für die Tonne! - Dialog zur Vermeidung von Lebensmittelabfällen in der Außer-Haus-Verpflegung" am 15.05.2021 erfolgreich abgeschlossen.
 `````
 
 # 1_22.mp3 Modul 4 Aufgabe 3
@@ -573,6 +694,54 @@ Frau Dr. Baumann: Ja, natürlich. Das zweite Leistungshoch des Tages erwartet un
 Moderator: Ist es eigentlich sinnvoll, bis zum späten Abend zu arbeiten?
 Frau Dr. Baumann: Nein, ganz und gar nicht. Unsere geistige Leistungsfähigkeit lässt ab 17 Uhr nach. Lassen Sie jetzt die Arbeit langsam ausklingen. Wer kann, sollte jetzt Sport treiben, denn die Muskeldurchblutung ist optimal. Ab 18 Uhr braucht der Kopf endgültig eine Pause. Schließen Sie die Arbeit ab und dann ist Freizeit angesagt. Entspannung, Treffen mit Freunden und Sport haben jetzt ihre Zeit. Aber beenden Sie alle Fitness-Aktivitäten zwei Stunden vor dem Schlafengehen. Sonst ist zu viel Adrenalin im Blut und Sie können nicht einschlafen.
 Moderator: Vielen Dank, Frau Dr. Baumann, für all diese interessanten und nützlichen Informationen. Vielleicht kann ja der eine oder andere unserer Hörer seinen Arbeitstag in Zukunft ein wenig nach diesem Biorhythmus gestalten.
+`````
+
+`````
+der Takt 节奏，节拍
+optimal [ɔpti`ma:l] 最佳的，最理想的
+halten 保持……状态
+auf Dauer = für unbegrenzte Zeit = in the long run
+entstehen 产生，出现，形成
+gleichermaßen 同样地，一样地
+
+in Schwung kommen = come to life · hot up · warm up
+
+Höchstleistung 最佳成绩，最大功率，最高效能
+verschieben 延期，推迟
+erfordern 要求，需要
+das Kurzzeitgedächtnis 短期记忆能力
+schmieren 涂抹，使润滑，给……上油
+geschmiert 因为前面有 laufen ，所以理解为加了润滑油的
+Aufmerksamkeit 注意力，专心
+das Referat 专题报告
+brummen 发出嗡嗡声
+übrigens 另外，此外，顺便提一下
+j-d/etw. ähnelt j-m/etw. 像，相似
+zwischendrin 在……中间
+
+leistungsfähig 功率高的，有能力的
+der Leistungshöhepunkt 性能峰值；能力最高点
+berücksichtigen 考虑，重视
+nachlassen 退步，减弱，下降
+sich j-m. /etw.(D) widmen 致力于，把时间、精力用于
+fortsetzen 继续
+ausklingen 逐渐消逝，渐告结束
+endgültig 最终的，最后的
+ansagen 通知，宣告
+das Adrenalin [adrena`li:n] 肾上腺素
+der eine oder andere 一个或另一个
+gestalten 塑造
+`````
+
+`````
+Ticken Sie richtig?
+状态还好吗？头脑还清醒吗？
+
+Die Uhr tickt nicht richtig.
+= Die Uhr zeigt die falsche Zeit an.
+
+jmd. tickt nicht richtig = bei jmdm. tickt es nicht richtig
+verrückt sein; den Verstand verloren haben
 `````
 
 # 1_23.mp3 Kapitel 4 Modul 1 Aufgabe 1b
