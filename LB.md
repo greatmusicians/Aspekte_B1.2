@@ -749,10 +749,32 @@ verrückt sein; den Verstand verloren haben
 
 `````de
 Über Stress zu jammern gehört zwar heute zum guten Ton, aber gleichzeitig haben wir heute so viel Freizeit wie nie zuvor. Was also tun wir mit dieser wertvollen Zeit? Die Möglichkeiten sind ja überaus vielfältig. Sogar so vielfältig, dass viele Leute auch in der Freizeit wieder Stress haben, den sogenannten Freizeitstress.
-Man kann allerdings feststellen, dass Männer und Frauen bei ihrer Freizeitgestaltung unterschiedliche Akzente setzen. So verbringen viele Männer ihre Freizeit am liebsten mit ganz intensiver Mediennutzung, also hauptsächlich mit Fernsehen und Computer. Frauen wiederum legen ein stärkeres Gewicht auf soziale Kontakte und Unterhaltung: mit Besuchen, Gesprächen im Freundeskreis sowie kulturellen Aktivitäten wie Kino, Theater und Konzerten.
-Wir haben uns gefragt: Wie ist das mit Ihrer Freizeitgestaltung? Was machen Sie in Ihrer freien Zeit?
-Rufen Sie uns an.
-Ah, da haben wir ja auch schon die ersten Anrufer in der Leitung! Das ging ja schnell.
+Man kann allerdings feststellen, dass Männer und Frauen bei ihrer Freizeitgestaltung unterschiedliche Akzente setzen. So verbringen viele Männer ihre Freizeit am liebsten mit ganz intensiver Mediennutzung, also hauptsächlich mit Fernsehen und Computer. Frauen wiederum legen ein stärkeres Gewicht auf soziale Kontakte und Unterhaltung: mit Besuchen, Gesprächen im Freundeskreis sowie kulturellen Aktivitäten wie Kino, Theater und Konzerten. Wir haben uns gefragt: Wie ist das mit Ihrer Freizeitgestaltung? Was machen Sie in Ihrer freien Zeit? Rufen Sie uns an. Ah, da haben wir ja auch schon die ersten Anrufer in der Leitung! Das ging ja schnell.
+`````
+
+`````
+über etwas jammern 为……而悲伤
+zuvor 以前
+
+etw. gehört zum guten Ton
+als selbstverständlich gelten; den üblichen Gewohnheiten, Umgangsformen entsprechen
+üblichen 通常的，普遍的
+Umgangsformen 社交举止
+
+wertvoll 有价值的，宝贵的
+überaus 非常，特别，极其
+vielfältig 多种多样的，五花八门的
+allerdings <强调肯定的语气>当然，自然
+feststellen 确定
+Gestaltung 塑造；形态，形象
+Freizeitgestaltung 业余活动
+wiederum 另一方面，反之
+`````
+
+`````
+die ersten Anrufer 有问题
+要么是 die ersten Anrufe
+或者是 den ersten Anrufer
 `````
 
 # 1_24.mp3 Modul 1 Aufgabe 1c und d
@@ -765,6 +787,10 @@ Matti: Na ja. Manchmal kommen ja gute Filme, aber meistens zappe ich hin und her
 A: Hast du Pläne, was du in Zukunft anders machen willst?
 Matti: Hm, also, ich hab’ mir fest vorgenommen, nicht mehr so viel zu arbeiten, und dann werde ich auch wieder all das machen, was mir Spaß macht wie z. B. segeln und Badminton spielen. Und ich will mehr reisen. Das ist doch einfach das Tollste, wenn man andere Länder und Kulturen entdecken und kennenlernen kann.
 A: Danke, Matti, für deinen Anruf. Und jetzt haben wir Franka am Telefon.
+`````
+
+`````
+
 `````
 
 # 1_25.mp3
