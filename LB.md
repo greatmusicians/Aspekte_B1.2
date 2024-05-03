@@ -790,7 +790,24 @@ A: Danke, Matti, für deinen Anruf. Und jetzt haben wir Franka am Telefon.
 `````
 
 `````
+sich(D.) etw. vornehmen 决心做，打算做
+rumliegen = herumliegen = ungeordnet irgendwo liegen
 
+Ich will das aber nicht mehr, selbst versehentlich hinzappen macht schlechte Laune.
+versehentlich 疏忽的，不经意地
+zappen 频繁切换电视频道
+
+hin und her = to and fro, back and forth = 来回地
+`````
+
+`````
+Dabei kann man sich doch super ausruhen, oder?
+
+dabei = parallel zu etwas anderem, gleichzeitig
+"Ich habe ein Buch gelesen. Dabei hörte ich Musik."
+
+dadurch = aufgrund von etwas anderem, als Folge von etwas anderem
+"Ich habe ein Buch gelesen und dabei Musik gehört. Dadurch habe ich den Bus verpasst."
 `````
 
 # 1_25.mp3
@@ -803,6 +820,29 @@ Franka Meier: Ja, das stimmt. Bei besserem Wetter mache ich natürlich mehr, geh
 A: Dann mach das doch gleich mal, Franka. Die Sonne scheint! Und wen haben wir jetzt am Telefon?
 `````
 
+`````
+der Ausgleich 平衡；补偿；比赛平局
+Maier erzielte den Ausgleich zum 2:2 in der 90. Minute.
+
+ansonsten 此外，在其他方面
+merken 察觉到，发觉
+sich (Dat.) etw. merken = sich etw. einprägen = 记住
+vergehen (时间)流逝，(香味)消散
+`````
+
+`````
+helfen vs. mithelfen
+
+helfen: to help, sometimes "to save sb."
+
+mithelfen: to participate in an activity performed by other persons; to help a person/group of people who are performing an action to complete/finish named action
+
+"mitmachen" is "to participate in ...", which does not necessarily involve "helping", for example when you participate in a match or game. They can be pretty close in certain circumstances though
+
+mithilfe + Genitiv = mithilfe + von
+Präp. 借助，凭借
+`````
+
 # 1_26.mp3
 <audio controls loop src="LB/1_26.mp3"></audio>
 
@@ -811,6 +851,20 @@ Aaron Holzmann: Hi, ich heiße Aaron Holzmann. Also, wenn ich frei hab’, dann 
 A: Das hört sich doch toll an.
 Aaron Holzmann: Ja, aber meine Freundin will, dass wir mehr Sport zusammen machen und öfter verreisen, auch mal am Wochenende. Sie kann sich einfach am besten entspannen, wenn sie Sport macht. Da kommt es natürlich manchmal zum Streit. Aber ich bemühe mich! Ich weiß ja auch, dass Sportmachen gesünder ist, als auf dem Sofa zu liegen. Jetzt machen wir gerade einen Tenniskurs zusammen.
 A: Klingt gut. Dann noch viel Spaß dabei, Aaron. Und wir begrüßen die nächste Anruferin. Hallo?
+`````
+
+`````
+verreisen 去旅行
+sich um j-n. bemühen 尽力，努力；讨好，取悦，巴结
+Er bemüht sich sehr um das Mädchen. 他竭力讨好这位姑娘。
+`````
+
+`````
+reisen vs. verreisen
+
+with "reisen" the focus is on travelling and on going TO certain places; with "verreisen" the focus is on "going AWAY / not being here"
+
+"reisen" means to travel, "verreisen" is usually used in the past participle "verreist sein", meaning someone is away on a trip, with the focus on them being not here.
 `````
 
 # 1_27.mp3
@@ -823,6 +877,11 @@ Ulrike Falkner: Stimmt. Und am liebsten mache ich etwas mit meiner Familie, also
 A: Vielen Dank, Ulrike. Jetzt machen wir ein bisschen Musik und danach haben wir noch ein paar Freizeittipps für euch.
 `````
 
+`````
+chillen
+[umgangssprachlich] ⟨jmd. chillt⟩ sich entspannen, etw. entspannt genießen
+`````
+
 # 1_28.mp3 Modul 3 Aufgabe 1d
 <audio controls loop src="LB/1_28.mp3"></audio>
 
@@ -830,7 +889,13 @@ A: Vielen Dank, Ulrike. Jetzt machen wir ein bisschen Musik und danach haben wir
 Achtung, liebe Gäste in unserem Freizeitparadies, wir haben eine Durchsage für Sie. Der neunjährige Lukas wird von seinen Freunden gesucht. Lukas, wenn du diese Durchsage hörst, komm bitte zur Snackbar neben dem großen Schwimmbecken mit der Rutsche. Ich wiederhole: Lukas, komm bitte zur Snackbar, deine Freunde warten dort auf dich.
 `````
 
-# 1_29.mp3 Modul 4 Aufgabe 5
+`````
+die Snackbar 小吃店
+das Schwimmbecken 游泳池
+die Rutsche 滑道，滑梯
+`````
+
+# 1_29.mp3 Modul 4 Aufgabe 5 (Schweizerdeutsch)
 <audio controls loop src="LB/1_29.mp3"></audio>
 
 `````de
@@ -872,6 +937,30 @@ N: Die ersten Stunden waren schon sehr informativ. Jetzt weiß ich zum Beispiel,
 N: Das scheint ein interessanter Kurs zu sein.
 `````
 
+`````
+die Schulbank drücken = zur Schule gehen (umgangssprachlich)
+
+Der gute Ton macht die Musik.
+Wie man etwas sagt, kann verändern, was man sagt; ein freundlicher Umgangston hilft mitunter
+der Ton [to:n] 音色；声调，语气
+mitunter 有时，偶尔，时常
+
+die Umgangsformen (似乎复数更常用)社交举止；礼貌，规矩
+kompetent 有才能的
+das Business-Outfit 商务装
+der Auftritt 登台(演出)
+
+zur Schau stellen 公开展示
+etwas dem Blick von anderen bewusst aussetzen, öffentlich zeigen, präsentieren
+
+der Volksmund 俗语
+`````
+
+`````
+Durch einen gepflegten und perfekten Auftritt kann man seine Persönlichkeit besser zur Schau stellen.
+A well-groomed and perfect appearance allows you to better showcase your personality.
+`````
+
 # 1_31.mp3
 <audio controls loop src="LB/1_31.mp3"></audio>
 
@@ -882,6 +971,22 @@ N: Und das haben Sie nun gelernt?
 N: Natürlich, und nicht nur das. Ich kann jetzt E-Mails schreiben und verschicken und bin recht gut beim Surfen im Internet. Als Nächstes möchte ich aber unbedingt lernen, wie man sich ein Fotoalbum anlegt. Ich habe so schöne Fotos aus dem letzten Urlaub. Die möchte ich allen meinen Freunden zeigen.
 N: Dann werden Sie ja ein richtiger Profi!
 N: Nun, das hoffe ich sehr. Einen Computer zu bedienen ist gar nicht so schwer und macht viel Spaß.
+`````
+
+`````
+mittlerweile 在这期间
+die Zeitschriften 杂志
+
+verweisen 指点...参阅，使注意
+den Leser auf eine Stelle des Buches verweisen. 指点读者参阅书中的某一处
+
+bedienen 操纵，利用，使用
+`````
+
+`````
+Als Nächstes möchte ich aber unbedingt lernen, wie man sich ein Fotoalbum anlegt.
+Next, I really want to learn how to create a photo album.
+这里的sich应该不是anlegen的反身动词用法，查不到对应含义
 `````
 
 # 1_32.mp3
@@ -899,11 +1004,11 @@ N: Das hoffe ich auch und mit dem Zertifikat habe ich auch bessere Chancen, mir 
 N: Dann drück’ ich dir die Daumen. So, liebe Hörerinnen und Hörer, vielleicht haben Sie Lust bekommen, auch einmal im Programmheft zu schmökern oder direkt in der Volkshochschule vorbeizukommen. Die Öffnungszeiten des Anmeldebüros sind: Dienstag und Donnerstag …
 `````
 
-# 1_33.mp3 Modul 1 Aufgabe 3a
-<audio controls loop src="LB/1_33.mp3"></audio>
-
-`````de
-Ich arbeite jetzt schon sehr lange in einer großen Firma und habe den Wunsch, mich beruflich zu verbessern. Mein Chef hat mir empfohlen, einen Kurs für gute Umgangsformen im Berufsalltag zu besuchen. Er meint, es ist wichtig, sich immer kompetent und höflich zu präsentieren.
+`````
+beschäftigen 使有事做，使忙碌
+schiefgehen 失败，不成功
+schmökern (安逸舒适地)阅读
+vorbeikommen 驶过，经过
 `````
 
 # 1_35.mp3 Modul 4 Aufgabe 2b
@@ -917,6 +1022,70 @@ N: Und welche Ziele hat sich der Bundesverband für Gedächtnistraining vorgenom
 N: Wir wollen durch ganzheitliches Gedächtnistraining spielerisch und ohne Stress die Leistung des Gehirns steigern. Wir wollen den Menschen helfen, ihr Gedächtnis in Bewegung zu halten, damit es dauerhaft leistungsfähig bleibt. Dazu haben wir auf der Basis modernster Forschung ein spezielles Übungsprogramm entwickelt. Ziele dieses Programms sind: Denkflexibilität, das heißt, in wechselnden Situationen schnell reagieren zu können. Außerdem assoziatives Denken, damit neue Informationen mit bereits gespeicherten verknüpft werden. Das ist zum Beispiel auch besonders nützlich, wenn man eine Fremdsprache lernt. Außerdem soll auch die Merkfähigkeit gesteigert und die Formulierungsfähigkeit ausgebaut werden. Und zum Schluss soll natürlich das logische Denken an sich trainiert werden.
 `````
 
+`````
+die Geheimzahl 密码
+auftreten （物作主语）发生，出现，产生（意外的）
+einzeln 单个的，每一个
+aufnehmen 拿起，采纳，接受，吸收
+
+sich(D.) etw. vornehmen 决心做，打算做；把...放在前面
+Und welche Ziele hat sich der Bundesverband für Gedächtnistraining vorgenommen?
+And what goals has the Federal Association for Memory Training set itself?
+联邦记忆训练协会为自己设定了哪些目标？
+
+ganzheitlich 全面的，整体的
+spielerisch  游戏似的；不认真的，轻率的
+dauerhaft 持久的，稳定的
+leistungsfähig 有能力的，熟练的
+assoziativ 联想的
+Verknüpfen 使联系起来
+
+Merkfähigkeit 记忆能力
+Formulierungsfähigkeit 表达能力
+Rezeptions- und Formulierungsfähigkeit = ausdrücken und verstehen können
+ausbauen 扩建，加大；扩大，扩充；进一步发展，改善
+`````
+
+`````
+Der Geldbeutel lässt sich nach dem Einkauf einfach nicht mehr finden.
+The wallet simply cannot be found after shopping.
+
+sich lassen + Infinitiv = Passiv
+`````
+
+`````
+Schwierigkeiten, sich an bestimmte Dinge zu erinnern, sind bis zu einem gewissen Grad normal.
+Difficulty remembering certain things is normal to some extent.
+在某种程度上，难以记住某些事情是正常的。
+
+bis zu einem gewissen Grad = to a certain extent, to a certain degree
+`````
+
+`````
+"ab und an" vs. "ab und zu"
+偶然的，偶尔的
+
+Beides hat die selbe Bedeutung!
+
+"Ab und zu" ist die süddeutsche Variante. "Ab und an" die Mittel-/Norddeutsche. Oftmals wird die Formulierung "ab und an" im Süddeutschen als gewählter, gebildeter empfunden. Dies ist allerdings ein Phänomen, dass sich nicht nur auf diesen Terminus bezieht.
+
+https://www.gutefrage.net/frage/wann-sagt-man-ab-und-an-und-wann-ab-und-zu
+`````
+
+`````
+Aus welchen Bereichen ist Gesprächskompetenz zusammengesetzt?
+
+- Basale Rezeptions- und Formulierungsfähigkeit (ausdrücken und verstehen können)
+- Pragmatisch diskursive Verständnis und Produktionsfähigkeit (Deuten und Kommunizieren können)
+- Pragmatisches Wissen (Funktionsweise von Gesprächen kennen)
+- Institutionelles Wissen (wie wird wo gesprochen)
+
+wie wird wo gesprochen
+含义似乎是“在什么地方怎么说话”，根据不同的场合，如何恰当地说话。
+
+https://www.studydrive.net/en/flashcards/sprechen-und-zuhoren-einfuhrung-in-die-sprachdidaktik/39380
+`````
+
 # 1_36.mp3 Modul 4 Aufgabe 2c und d
 <audio controls loop src="LB/1_36.mp3"></audio>
 
@@ -924,6 +1093,33 @@ N: Wir wollen durch ganzheitliches Gedächtnistraining spielerisch und ohne Stre
 N: Der Bundesverband für Gedächtnistraining bietet jede Menge Kurse und Seminare an und logisches Denken kommt dabei ganz gewiss nicht zu kurz, denn in den Kursen werden viele Logik- und Denksportaufgaben angeboten. Dabei lernen die Teilnehmer nicht nur, wie man diese lösen kann, sondern beobachten sich auch selbst beim Lösen der Aufgaben. Hören Sie Dr. Witt mit einer Kostprobe:
 N: Ein schönes Beispiel für eine Logikaufgabe ist die Geschichte vom Fährmann. Ein Fährmann steht vor folgendem Problem: Er muss einen Fluss in einem kleinen Boot überqueren und dabei einen Wolf, ein Schaf und einen Kohlkopf ans andere Ufer bringen. Das Boot ist leider so klein, dass außer ihm immer nur ein Tier oder der Kohlkopf mit ins Boot passen. Dabei darf das Schaf nicht mit dem Kohlkopf allein bleiben, weil es ihn frisst. Ebenso frisst der Wolf das Schaf, wenn sie allein am Ufer zurückbleiben. Wie schafft der Fährmann es, alle auf die andere Seite zu bringen, ohne dass jemand dabei gefressen wird? Um diese Aufgabe zu lösen, muss man sich zuerst einmal verdeutlichen, was nicht zusammenpasst, also Wolf und Schaf auf der einen Seite sowie Schaf und Kohl auf der anderen. Viele scheitern an der Aufgabe, weil sie nur in eine Richtung denken. Ich will das an der Lösung der Aufgabe verdeutlichen: Bei seiner ersten Fahrt muss der Fährmann das Schaf mitnehmen, da sonst entweder das Schaf den Kohl oder der Wolf das Schaf fressen würde. Nachdem er das Schaf auf die andere Seite gebracht hat, kehrt er zurück und nimmt den Wolf oder den Kohlkopf mit. Es gibt also zwei Lösungen. Ich nehme zuerst den Wolf. Am Ufer B, wo das Schaf bereits wartet, setzt der Fährmann den Wolf an Land und nimmt das Schaf wieder mit zurück. An Ufer A wieder angekommen, lässt er das Schaf an Land, nimmt den Kohl mit und fährt wieder zum Ufer B. Dort entleert er sein Boot und fährt allein zurück, um schließlich das Schaf zu holen. Um zu einer Lösung zu kommen, muss der Fährmann das Schaf also dreimal transportieren. Die meisten Leute kommen eben nicht auf diese Idee.
 N: Wenn Sie, liebe Zuhörerinnen und Zuhörer, mehr über den Bundesverband für Gedächtnistraining erfahren möchten, dann besuchen Sie doch unsere Homepage. Dort finden Sie auch jede Menge Tipps für intensives Gedächtnistraining und erfolgreiches Fremdsprachenlernen.
+`````
+
+`````
+jede Menge = umgangssprachlich: sehr viel, in großer Zahl
+gewiss 确凿的，无疑的；某种，某个
+die Kostprobe 品尝
+der Fährmann 摆渡船夫
+zurückbleiben 留在后面
+verdeutlichen 使明白
+an j-m/etw. scheitern 失败，落空
+`````
+
+`````
+Logisches Denken kommt dabei ganz gewiss nicht zu kurz.
+Logical thinking is certainly not neglected.
+逻辑思维当然不能被忽视。
+
+zu kurz kommen
+schlecht wegkommen, zu wenig bekommen, das Nachsehen haben
+结果很糟糕；得到的太少；吃亏，受损害
+
+etw., jmd. kommt (bei etw.) zu kurz
+vernachlässigt, benachteiligt werden; nicht die nötige Beachtung erhalten
+被忽视、处于不利地位；没有得到必要的重视
+
+nicht zu kurz kommen
+没有被忽视，被重视
 `````
 
 # 2_02.mp3 Kapitel 6 Auftakt Aufgabe 2b 1
@@ -934,12 +1130,21 @@ Ich habe als Zimmermädchen und Küchenhilfe in einem großen Hotel auf der Nord
 Naja, es war trotzdem eine schöne Zeit, weil die Gäste sehr nett waren und ich viele andere junge Leute kennengelernt habe. Dieser Sommer hat mir gezeigt, dass mir die Arbeit im Hotel gefällt und danach habe ich eine Ausbildung zur Hotelfachfrau gemacht. Heute arbeite ich in einem großen Hotel in der Schweiz und mein Beruf macht mir nach wie vor Spaß.
 `````
 
+`````
+nach wie vor = noch immer = permanent
+"Nach wie vor" bedeutet so viel wie "noch immer", "weiterhin" oder "durchgehend".
+`````
+
 # 2_03.mp3 2
 <audio controls loop src="LB/2_03.mp3"></audio>
 
 `````de
 Während meines Studiums habe ich als Stadtführer gejobbt. Ich glaube, ich hab’ das sogar fünf Jahre lang gemacht. Meistens hat es auch Spaß gemacht. Ich habe Menschen aus der ganzen Welt kennengelernt. Und außerdem hab’ ich in dieser Zeit selbst viel über meine Stadt gelernt. Ich musste mich ja wirklich gut vorbereiten. Das war sehr interessant, aber auch viel Arbeit.
 Oft war der Job aber auch nervig. Wenn es regnet oder sehr heiß ist, dann macht es überhaupt keinen Spaß, durch die Stadt zu laufen. Und manchmal hat man auch Leute dabei, die interessiert das alles gar nicht, was der Stadtführer ihnen erzählt. Die quatschen dann die ganze Zeit und hören nicht zu. Das fand ich immer ziemlich unhöflich.
+`````
+
+`````
+der Stadtführer 城市参观导游
 `````
 
 # 2_04.mp3 3
@@ -949,12 +1154,53 @@ Oft war der Job aber auch nervig. Wenn es regnet oder sehr heiß ist, dann macht
 Ich habe mal als Erntehelferin bei der Weinlese gejobbt. Das war echt ein Knochenjob, den ganzen Tag im Weinberg stehen und die Trauben schneiden. Die ersten Tage fiel mir das ganz schön schwer, ich konnte mich am Abend kaum noch bewegen. Mein Rücken tat total weh. Aber mit der Zeit ging es immer besser. Die Winzer waren sehr nett und es gab jeden Tag ein leckeres Essen für die Helfer. Das waren immer sehr schöne Abende, da wurde viel geredet und gelacht. Und am Ende habe ich sehr viel über Wein gelernt. Das war richtig gut.
 `````
 
+`````
+die Ernte 收获，收成
+die Weinlese 采摘葡萄
+
+der Knochenjob
+UMGANGSSPRACHLICH
+besonders anstrengende, unangenehme oder undankbare Beschäftigung
+
+der Winzer 葡萄农
+`````
+
 # 2_05.mp3 4
 <audio controls loop src="LB/2_05.mp3"></audio>
 
 `````de
 Ich habe nach meiner Ausbildung nicht gleich eine Stelle gefunden. Da habe ich dann eine Weile gejobbt, z. B. als Taxifahrer oder als Möbelpacker. Möbelpacker war anstrengender, aber auch interessanter. Man lernt das Leben total fremder Menschen kennen. Du siehst die alte und die neue Wohnung. Man kann erkennen, ob der Umzug eine Verbesserung oder eine Verschlechterung für die Personen ist. Ob sich Paare finden oder trennen. Und einem begegnen Typen …
 Unglaublich! Das ist wie im Film. Was hab’ ich alles an lustigen und tragischen Geschichten erlebt! Manchmal sind wir zu einem Umzug gekommen und die Leute schliefen noch. Nichts war eingepackt. Das war dann supernervig. Und es ist natürlich total anstrengend, den ganzen Tag Möbel rauf- und runterzutragen. Da brauchst du nicht mehr ins Fitnessstudio zu gehen. Mein Leben lang hätte ich den Job nicht machen wollen, aber für bestimmte Zeit war es wirklich interessant.
+`````
+
+`````
+die Weile 短时间，片刻
+
+begegnen 遇到，遭遇到
+etw. begegnet j-m
+Und einem begegnen Typen …
+einem 应该是 man 的 Dativ，主语是 Typen。你能遇到各种各样的人。
+
+tragisch 悲剧的，不幸的
+schlafen -> Präteritum: schliefen
+`````
+
+`````
+Mein Leben lang hätte ich den Job nicht machen wollen, aber für bestimmte Zeit war es wirklich interessant.
+
+I wouldn't have wanted to do the job for the rest of my life, but it was really interesting for a while.
+
+
+Ich hätte sie schütteln wollen, aber ich sah sie nur an.
+
+I would have wanted to shake her, but I just looked at her.
+Because they didn't actually want to shake here (but were unable to). But they felt like doing it for a moment.
+
+Ich wollte sie schütteln = Konjunktiv II present-tense (or the normal simple past; these are indistinguishable as wollen doesn't add an umlaut in the Konjunktiv)
+
+Ich hätte sie schütteln wollen = Konjunktiv II past-tense.
+
+https://www.reddit.com/r/German/comments/10lbvjr/h%C3%A4tte_wollen_what_does_this_structure_mean/
 `````
 
 # 2_06.mp3 Modul 1 Aufgabe 1b
@@ -980,6 +1226,13 @@ N: Gerne.
 N: Kommen wir nun zu unserem nächsten Programmpunkt: Wir haben auch eine kleine Umfrage gemacht und Leute auf der Straße befragt, welche Wünsche sie an ihr Berufsleben haben.
 `````
 
+`````
+die Befragung 调查
+sicher 安全的，可靠的；确定无疑的
+sicherlich adv. 无疑，一定
+dicht 紧接，贴近
+`````
+
 # 2_07.mp3 Modul 1 Aufgabe 2a
 <audio controls loop src="LB/2_07.mp3"></audio>
 
@@ -1002,6 +1255,12 @@ N: Hallo, was für eine Umfrage macht ihr denn?
 N: Oh hallo! Also, es geht um die berufliche Zukunft. Darf ich Sie auch fragen, was Sie von Beruf sind und was Sie in zwei Jahren machen wollen?
 N: Ja, gern. Ich bin freiberufliche Übersetzerin für Englisch und Französisch. Im Moment übersetze ich vor allem Computerprogramme für eine Softwarefirma. Das macht mir aber keinen großen Spaß und die Firma, von der ich die meisten Aufträge bekomme, ist nicht sehr groß und kämpft ums Überleben. Ich muss also ständig Angst haben, dass ich keine Aufträge mehr bekomme. Die Firma wird wahrscheinlich irgendwann in Konkurs gehen. Deswegen bin ich gerade dabei, mir andere Auftraggeber zu suchen. In zwei Jahren werde ich ganz sicher woanders arbeiten. Und mein Traum ist, dass ich spannende und sprachlich anspruchsvolle Romane oder Erzählungen übersetzen werde. Es ist zwar sehr schwierig, gute Übersetzungsaufträge zu bekommen, aber ich werde schon was finden.
 N: Na dann, viel Glück und vielen Dank!
+`````
+
+`````
+in Konkurs gehen [kɔn`kurs] 破产
+woanders 在别的地方
+Erzählung 短篇小说
 `````
 
 # 2_09.mp3
