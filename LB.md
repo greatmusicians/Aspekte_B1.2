@@ -1271,6 +1271,38 @@ N: Dürfte ich Sie auch noch fragen, was Sie beruflich machen und wie Sie sich I
 N: Na, da haben Sie genau die Richtige erwischt. Ich habe im Moment sehr viel Ärger in meiner Arbeit und für die Zukunft wünsche ich mir alles Mögliche, bloß nicht länger diesen Job! Ich bin Teamassistentin in einer Bürogemeinschaft und habe einen Chef, der schnell wütend wird und immer an mir rummeckert. Eigentlich wird von mir vor allem erwartet, dass ich Kaffee koche und das Mittagessen holen gehe. Und wenn dann mal ein Brief geschrieben werden soll, dann muss er immer in zwei Sekunden fertig sein. Das nervt mich! Der Job ist einerseits langweilig und andererseits macht mein Chef ständig unnötigen Stress, wenn es mal was zu tun gibt. „Sie werden mir den Brief in zehn Minuten bringen, oder?“ Darauf habe ich wirklich keine Lust mehr. Ich bin gerade dabei, mir einen neuen Job zu suchen. In zwei Jahren werde ich hoffentlich einen Job haben, in dem ich gefordert bin und auch anspruchsvolle Aufgaben habe. Und das Arbeitsklima muss stimmen, so etwas wie jetzt will ich nicht noch mal erleben! Ja, und mehr Geld möchte ich natürlich auch verdienen.
 `````
 
+`````
+erwischen 碰到，遇到
+meckern 抱怨，挑剔
+rummeckern = herummeckern = jmd. meckert (an etw., mit jmdm.) rum
+`````
+
+`````
+Für die Zukunft wünsche ich mir alles Mögliche, bloß nicht länger diesen Job!
+I want everything possible for the future, just no longer this job!
+以后干啥都比这个工作好！
+
+bloß 仅仅，只
+`````
+
+`````
+Ich bin gerade dabei, mir einen neuen Job zu suchen.
+我目前正在寻找新工作。
+
+dabei sein
+[1] an etwas teilnehmen oder mitmachen
+[2] zum Ausdruck einer Verlaufsform: gerade mit etwas Bestimmtem beschäftigt sein
+die Verlaufsform [语]进行时形式
+
+https://de.wiktionary.org/wiki/dabei_sein
+`````
+
+`````
+In zwei Jahren werde ich hoffentlich einen Job haben, in dem ich gefordert bin und auch anspruchsvolle Aufgaben habe.
+Hopefully in two years I will have a job in which I am challenged and also have demanding tasks.
+希望两年后我能找到一份充满挑战、任务艰巨的工作。
+`````
+
 # 2_10.mp3
 <audio controls loop src="LB/2_10.mp3"></audio>
 
@@ -1283,25 +1315,48 @@ N: Hm, das ist ja interessant. Und wie sind Ihre Wünsche an die berufliche Zuku
 N: Meine Zukunft? Na, das ist für mich ganz klar: Ich werde Führungsaufgaben übernehmen und ein Team leiten. In zwei Jahren sehe ich mich als Chef einer Abteilung. Das habe ich bei mir in der Firma auch schon deutlich gemacht. Wenn ich bis spätestens in zwei Jahren nicht Abteilungsleiter bin, dann wechsle ich die Firma, da kann mein Chef dann sehen, was er ohne mich macht. Ja, und in zwei Jahren möchte ich natürlich auch mehr verdienen – das ist eh klar. Ah, ’tschuldigung … Ja, hallo Rene, hast du mit dem Kunden gesprochen? Konntest du ihn überzeugen oder soll ich das Thema noch mal bei ihm ansprechen?
 `````
 
-# 2_11.mp3 Modul 1 Aufgabe 2c
-<audio controls loop src="LB/2_11.mp3"></audio>
-
-`````de
-Also, ich bin Friseur. Ich bin eigentlich ganz zufrieden mit dem Job, nur leider verdiene ich nicht gut. Für die Zukunft wünsche ich mir, dass ich irgendwann einen eigenen Friseursalon habe. In zwei Jahren bin ich bestimmt noch nicht so weit. Da muss ich erst noch länger sparen. Aber ich bin sicher: Der Tag wird kommen, an dem ich mein eigenes Geschäft eröffnen kann.
+`````
+der Flieger 飞机，飞行员
+erwischen 赶上，搭上
+betreffen 涉及，有关
 `````
 
-# 2_12.mp3 Modul 4 Aufgabe 3a
-<audio controls loop src="LB/2_12.mp3"></audio>
+`````
+Okay, von mir aus.
+这里应该是翻译为：please yourself.
 
-`````de
-N: Wann hast du angefangen zu tauchen?
-N: Das war 1998. Ich habe Urlaub mit einem Freund in Ägypten gemacht. Der hat mich dann eigentlich dazu überredet, einen Tauchkurs zu machen. Das hat mir dann auch echt gut gefallen – aber damals hab’ ich noch nicht geahnt, dass es einmal mein Beruf werden wird.
-N: Tauchen war also nicht schon immer ein Traum von dir, sondern du bist eher zufällig dazu gekommen?
-N: Ja, genau, das war absoluter Zufall. Also, als Kind hab’ ich Unterwasserfilme geliebt. Aber vom Tauchen selber habe ich früher eigentlich nicht geträumt.
-N: Und seit wann arbeitest du jetzt als Tauchlehrerin?
-N: Seit ungefähr drei Jahren. Ich habe angefangen in Kroatien, da hab’ ich ein halbes Jahr gearbeitet, dann war ich über zwei Jahre in Ägypten und jetzt, in vier Wochen, werde ich auf die Malediven gehen.
-N: Wie und wann bist du denn darauf gekommen, als Tauchlehrerin zu arbeiten?
-N: Das Tauchen hat mir so viel Spaß gemacht, dass ich immer mehr Kurse besucht habe und dann auch eine Ausbildung zur Tauchlehrerin gemacht habe. Das Schlüsselerlebnis war dann ein Tauchurlaub in Indonesien, das war vor ungefähr vier Jahren. Da hab’ ich gemerkt, wie sehr mich das Tauchen fasziniert. In meinem alten Job als Online-Redakteurin war ich nicht mehr so zufrieden. Das viele Sitzen am Computer und immer das Gleiche machen … Ich habe mir dann vorgenommen, es einfach auszuprobieren und zu versuchen, mein Geld als Tauchlehrerin zu verdienen.
+Von mir aus kannst du machen, was du willst! = Mach doch, was du willst! - sounds angry and is a fixed expression. It usually stops a discussion, if you use it, so take care. The mood in German is "eingeschnappt".
+
+Von mir aus können wir auch ins Kino gehen. - Depending on intonation it is either neutral (a proposal or a confirmation of a proposal) or it shows that I does not really like it.
+
+meinetwegen
+1. (wegen mir) because of me, on my account; (mir zuliebe) because of me, for my sake
+2. (von mir aus) I don’t care, it’s all right by (oder with) me, please yourself
+3. (zum Beispiel) let’s say, shall we say
+
+https://forum.wordreference.com/threads/von-mir-aus.1735636/
+https://www.wordreference.com/deen/meinetwegen
+`````
+
+`````
+Ich lege auch gleich los mit den Fragen.
+I'll start with the questions right away.
+我马上就开始提问。
+
+loslegen 开始干，开始说
+gleich 马上，立刻
+`````
+
+`````
+São Paulo
+圣保罗，巴西最大的城市，也是南美洲最大最繁华的城市、世界著名的国际大都市。
+`````
+
+`````
+Das ist eh klar.
+That's clear anyway.
+
+eh <地区>反正，横竖，本来
 `````
 
 # 2_13.mp3 Modul 4 Aufgabe 3b
@@ -1328,6 +1383,62 @@ N: Was ist das Schönste an deinem Beruf?
 N: Das Schönste an meinem Beruf sind sicherlich die schönen Taucherlebnisse, vor allem wenn man Begegnungen mit Tieren hat, zum Beispiel mit einer Seekuh oder Haien. Aber auch die kleinen Dinge, wenn man in Ruhe das Leben in einer Koralle beobachten kann, das ist immer wieder wunderschön. Und wenn man einmal erleben durfte, 20 Minuten lang mit Delfinen zu schwimmen, dann ist das einfach der schönste Beruf der Welt!
 N: Eine letzte Frage habe ich noch: Würdest du in deinem nächsten Urlaub tauchen gehen?
 N: Hm, jein … Es ist schon so, dass ich meinen Urlaub nutze, um meinem Körper eine Tauchpause zu gönnen. Andererseits gibt es noch so viele Tauchplätze auf der Welt, die ich noch sehen möchte … Ich werde also bestimmt in dem einen oder anderen Urlaub auch tauchen gehen.
+`````
+
+`````
+überreden 劝说，说服
+ahnen 预感，预料
+selber (Alltagssprache) = selbst (Standardsprache)
+Redakteurin 女编辑
+
+sich etw. vornehmen
+etw. beabsichtigen, planen, den Entschluss fassen, etw. zu tun
+打算做某事、计划、决定做某事
+
+annehmen 接受
+das Safariboot 游轮
+der Rückzug 撤退
+die Balance [baˈlɔ̃ːs] 平衡
+die Begegnung 相遇，遇见
+der Hai 鲨鱼
+die Koralle 珊瑚
+der Delfin 海豚
+gönnen 给予，赐予
+`````
+
+`````
+Was ist der Unterschied zwischen überzeugen und überreden?
+
+Überzeugen: Jemand hat so gute Argumente, dass derjenige, dem er sie vorträgt, am Ende aus freien Stücken seine Meinung ändert und derselben Ansicht ist wie der Redner.
+
+Überreden: Derjenige, der die Argumente vorgetragen bekommt, sagt am Ende halt ja, obwohl er nicht ganz der Ansicht ist, dass die Argumente des Redners richtig sind. Er fühlt sich nur überrumpelt und weiß keine Gegenargumente, deshalb stimmt er am Ende eben zu.
+
+Jemanden überreden hat eine leicht NEGATIVE Bedeutung, fast wie jemanden "bequatschen", "voll-labern". Überzeugen bedeutet, jemanden mit  Argumenten und Sachverstand  dazu zu bringen, eine Auffassung zu teilen.
+
+überzeugen: der gegenüber versteht und akzeptiert deine Argumente
+
+überreden: der gegenüber ist nicht von deinen Argumenten überzeugt, macht aber trozdem das, was du ihm räts
+
+https://www.gutefrage.net/frage/was-ist-der-unterschied-zwischen-ueberzeugen-und-ueberreden
+`````
+
+`````
+probieren vs. ausprobieren
+
+Probieren can be used as tasting a food or a drink for the first time, and as just trying something out in general.
+
+Ausprobieren can only be used as trying to do something or trying something new out, and indicates that you‘re doing something for the first time.
+
+examples: „Ich möchte unbedingt meine neue Kamera ausprobieren.“
+= I really want to try out my new camera.
+
+„Darf ich den Käse probieren?“
+= May I try the cheese?
+
+„Du solltest probieren mehr rauszugehen.“
+= You should try going outside more.
+
+https://hinative.com/questions/5212067
 `````
 
 # 2_14.mp3 Kapitel 7 Modul 1 Aufgabe 2
