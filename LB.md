@@ -1451,6 +1451,10 @@ Zu Zeiten unserer Großeltern bedeutete eine Ehe vor allem materielle Sicherheit
 Mein Kollege Lutz Keller hat darüber mit einer Mutter und einem Vater gesprochen.
 `````
 
+`````
+tritt ein -> eintreten 发生，出现
+`````
+
 # 2_15.mp3
 <audio controls loop src="LB/2_15.mp3"></audio>
 
@@ -1467,13 +1471,39 @@ N: Beschreiben Sie das Leben in so einer zusammengewürfelten Familie.
 N: Bei so vielen Personen ist immer was los, es wird nie langweilig. Das ist wirklich schön. Aber es gibt natürlich auch eine Menge Konflikte. Marias Tochter war anfangs sehr eifersüchtig. Sie war ja ein Einzelkind und musste sich erst daran gewöhnen, die Aufmerksamkeit ihrer Mutter zu teilen. Und meine Söhne wollten sich erst von Maria nichts sagen lassen. Mittlerweile hat sich die Situation allerdings geändert. Wir haben uns ganz gut zusammengerauft und das neue Baby wird von allen verwöhnt. Und die Großen verstehen sich auch ziemlich gut.
 `````
 
+`````
+verkraften 胜任，经受得起，应付得了
+
+hinten und vorne nicht reichen = zu wenig sein, nicht ausreichen, nicht genügen
+
+der Hort 日间托儿所
+sich in jmdn. verlieben 爱上
+zusammengewürfelt 拼凑在一起的
+sich zusammenraufen 和解，重归于好
+verwöhnen 溺爱，宠爱
+`````
+
+`````
+Das Finanzielle ist natürlich ein Problem.
+
+Ich bin für alles Finanzielle verantwortlich im Haus, ich teile das Geld ein.
+
+Adjektiv als Nomen 还可以这样用。
+`````
+
+`````
+Und meine Söhne wollten sich erst von Maria nichts sagen lassen.
+And my sons didn't want to hear anything from Maria at first.
+sich lassen: Passiv
+`````
+
 # 2_16.mp3 Kapitel 8 Einstieg Aufgabe 3b Lied
 <audio controls loop src="LB/2_16.mp3"></audio>
 
 # 2_17.mp3 Modul 2 Aufgabe 3
 <audio controls loop src="LB/2_17.mp3"></audio>
 
-`````
+`````de
 N: Guten Abend, meine Damen und Herren, und herzlich willkommen zu unserer aktuellen Diskussionsrunde zum Thema „Wie viel Konsum braucht der Mensch?“. Begrüßen möchte ich unsere heutigen Talk-Gäste: Frau Evelyne Fassbach, Herrn Mario Meier-Brill und Herrn Lukas Schröder.
 Herr Schröder, beginnen wir doch gleich mit Ihnen. Sie sind ja der Jüngste in unserer Runde. Was bedeutet für Sie Konsum?
 N: Konsum, ja, also eigentlich interessiert mich das nicht so, ich gehe zum Beispiel nicht gern einkaufen. Aber es gibt natürlich schon Sachen, die ich unbedingt haben oder machen will.
@@ -1497,6 +1527,12 @@ N: Und jetzt kaufen Sie nichts mehr?
 N: Nichts ist vielleicht zu extrem. Aber ich kaufe nur noch das, was ich wirklich brauche, und verkaufe Sachen, die ich nicht mehr benutze. In den letzten zwei Jahren habe ich Berge von CDs und DVDs, Klamotten und auch Möbel verkauft. Ich verzichte also auf nichts. Ich reduziere nur.
 `````
 
+`````
+feststellen 发觉，看到；断定，确定
+(auf j-n / etw.) verzichten 放弃
+reduzieren 降低，减少
+`````
+
 # 2_19.mp3
 <audio controls loop src="LB/2_19.mp3"></audio>
 
@@ -1507,6 +1543,19 @@ N: Und Sie haben ja auch beruflich mit dem Einkaufen zu tun …
 N: Ja, stimmt. Ich arbeite bei einem großen Konzern im Kundenservice. Haben Kunden Fragen zu unseren Produkten, wenden sie sich an mich. Und natürlich auch, wenn es irgendwelche Probleme gibt. Die Zufriedenheit der Kunden steht immer an erster Stelle.
 N: Dann ist Einkaufen und Konsumieren wichtig für Sie?
 N: Ja, sicher. Einkaufen macht doch auch Spaß. Man kann sich immer wieder den einen oder anderen Traum erfüllen. Ich liebe die Abwechslung und habe oft Lust auf etwas Neues. Meine Wohnung ist wunderschön und ich dekoriere zum Beispiel immer wieder neu. Den alten Kram verschenke ich dann oft.
+`````
+
+`````
+der Konzern 康采恩(种垄断组织)，企业集团
+sich an j-n wenden 向...求助，找...帮忙
+der Kram 废物，无用的杂物
+`````
+
+`````
+Und ich habe auch Spaß daran, mich mit praktischen und schönen Dingen zu umgeben.
+And I also enjoy surrounding myself with practical and beautiful things.
+
+sich umgeben mit = to be surrounded with/by
 `````
 
 # 2_20.mp3 Modul 2 Aufgabe 4
@@ -1532,6 +1581,25 @@ N: Okay, stimmt, aber eben nicht alles. Und dazu kommen ja auch noch die ganzen 
 N: Da bin ich ganz Ihrer Meinung. Und dazu müssen wir unseren Kindern wieder andere Werte vermitteln. Kinder müssen lernen, dass es im Leben auf andere Dinge ankommt, zum Beispiel auf Rücksichtnahme und Hilfsbereitschaft.
 N: Ja, aber so ist das einfach heutzutage, das ist eben unsere Zeit. Natürlich wollen Kinder auch das haben, was sie bei den Erwachsenen sehen. Man sollte daraus kein Problem machen.
 N: Naja, die Erwachsenen haben doch auch Möglichkeiten, ihre Kinder zu beeinflussen.
+`````
+
+`````
+der Haushalt 家务；家产，家当
+die Verfügung 支配，利用，吩咐
+`````
+
+`````
+Nun, das ist natürlich eine Frage der Zeit, die einem zur Verfügung steht.
+Well, of course it's a question of the time you have available.
+是否需要洗碗机，取决于你有多少可支配的时间。
+
+Die Zeit steht einem zur Verfügung. 时间准备好被某人支配。
+
+Eine Person kann dir einen Gegenstand zur Verfügung stellen. Es steht dir jemand zur Verfügung, wenn du deren Hilfe benötigst.
+
+Zur Verfügung stellst du eine Sache, einen Gegenstand. Zur Verfügung stehen kannst du z.B. wenn dich Jemand braucht um zu helfen.
+
+https://www.gutefrage.net/frage/was-ist-der-unterschied-zwischen-zur-verfuegung-stellen-und-zur-verfuegung-stehen
 `````
 
 # 2_21.mp3 Modul 2 Aufgabe 5b

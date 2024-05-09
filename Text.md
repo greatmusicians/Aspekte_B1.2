@@ -24,6 +24,25 @@ Folie 5
 Beenden Sie Ihre Präsentation und bedanken Sie sich bei den Zuhörern.
 `````
 
+## HA, 20240305, K8M4, Können wir auf Konsum verzichten?
+`````
+berichten über etwas 做关于...的报告
+
+verzichten auf etwas(Akk.) 放弃
+auf etwas(Akk.) eingehen 探讨
+`````
+
+In meiner Präsentation geht es um das Thema „Können wir auf Konsum verzichten?“. Zum Inhalt meiner Präsentation: Zunächst berichte ich über meine persönlichen Erfahungen. Danach möchte ich erläutern, welche Rolle der Konsum in meinem Heimatland spielt. Anschließend möchte ich auf die Vor- und Nachteile von Konsum eingehen. Zum Schluss können Sie natürlich Fragen stellen.
+
+Wie funktioniert die Wirtschaft? Ich habe gelernt, dass jemand arbeitet und Geld verdient, wenn ich etwas kaufe. Und wenn die andere etwas kaufen, kann ich auch einen Job finden und Geld verdienen. Das ist Wirtschaft. Je mehr Menschen Konsum machen, desto größer wird die Wirtschft. Aber die Voraussetzung ist, dass ich Geld verdienen kann. Ich kann nur etwas kaufen, was ich mich leisten kann.
+
+In meinem Haimatland gibt es heutzutage eine sehr große Wirtschft. Aber die Wirschaft hängt fast total von dem Konsum ab. Das bedeutet, wenn wir weniger kaufen, wird die Wirtschaft kleiner, dann wird vielleicht jemand weniger verdienen oder arbeitslos. Und wenn die andere weniger kaufen, kann es auch mir schwieriger, eine neue Arbeit zu finden. Aus diesem Grund scheint es, dass wir auf keinen Fall auf Konsum verzichten sollen.
+
+Der wichtigster Vorteil von Konsum ist die Entwicklung der Wirtschaft. Ein weiterer Vortail ist, dass wir ein besseres Leben haben, wenn wir schöne Sache und Service kaufen. Es ist gut, wenn wir alles kaufen können, was wir brauchen. Aber wenn wir zu viel kaufen, sollen wir diesen Konsum verzichenten. Wir sollen die Verantwortungen für unsere finanzielle Situation übernehmen. Weiterhin ist es auch für die Umwelt wichtig.
+
+Ich bin der Meinung, dass wir machen können, was wir wollen. Was wir beachten sollen, ist, dass wir immer verantwortlich nicht nur für die Gesellschaft, sondern auch für die Umwelt sind.
+
+Und nun möchte ich zum Schluss kommen. Haben Sie Fragen über meine Präsentation?
 
 # Morgenmuffel und Frühaufsteher
 `````
