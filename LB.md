@@ -1586,6 +1586,38 @@ N: Naja, die Erwachsenen haben doch auch Möglichkeiten, ihre Kinder zu beeinflu
 `````
 der Haushalt 家务；家产，家当
 die Verfügung 支配，利用，吩咐
+letztlich 毕竟，终究
+Anzug tragen 穿整套西装
+
+die naive Sichtweise 天真的思维方式
+Sichtweise = Denkweise = point of view = 看问题的角度，着眼于对事物的考虑方法（更抽象，指的是底层的思维方式）
+Ansicht = opinion = 对某事物的想法和意见（更具体）
+Sicht = view
+
+differenziert 细致入微的
+
+sich(D.) (schwere, unnötige) Gedanken machen
+= für, um etw., jmdn. Sorge tragen
+= für etw., jmdn. sorgen
+Mach dir keine Gedanken darüber!
+= Mach dir deswegen keinen Kopf!
+= Don't worry about it!
+
+eben nicht 表示加强否定语气
+wegschmeißen 扔掉(不需要的东西) = wegwerfen
+die Rücksichtnahme 体贴，体谅
+`````
+
+`````
+Weg damit!
+Get rid of it! 把它扔掉!
+Away with it! 把它拿走!
+
+"Ab dafür!" ist die endgültige Verabschiedung: "So, jetz packse deine Klamotten un ab dafür!" auch: "So jetzt hast du deine Anweisungen, und ab."
+
+Ab dafür! = Los geht's! = Weg damit! (？)
+
+https://www.redensarten-index.de/suche.php?suchbegriff=weg%2Bdamit&bool=relevanz&gawoe=an&sp2=erl_ou
 `````
 
 `````
@@ -1602,6 +1634,109 @@ Zur Verfügung stellst du eine Sache, einen Gegenstand. Zur Verfügung stehen ka
 https://www.gutefrage.net/frage/was-ist-der-unterschied-zwischen-zur-verfuegung-stellen-und-zur-verfuegung-stehen
 `````
 
+`````
+Bequemlichkeit, Annehmlichkeit, Gemütlichkeit
+
+Bequemlichkeit ist etwas schlechtes. So wie Faulheit.
+
+Aus Bequemlichkeit (Faulheit) gehen sie nicht zum Mülleimer, sondern werfen ihren Müll auf die Straße.
+
+-----------------------------------------------------
+
+Annehmlichkeiten sind etwas gutes. (Annehmlichkeiten sind angenehm)
+
+-Eine der Annehmlichkeiten des Leben als Millionär ist es, dass man nicht arbeiten muss.
+
+-----------------------------------------------------
+
+Gemütlichkeit hat zwei Bedeutungen.
+
+1. Eigenschaft eines Ortes.
+
+In der Gemütlichkeit der Wohnung fühle ich mich wohl. (In der gemütlichen Wohnung fühle ich mich wohl. )
+
+2. Eigenschaft einer Person
+
+2.1 positiv
+Ich mag ihn. Er besitzt so eine Gemütlichkeit. (Er hat einen angenehmen, ruhigen Charakter. )
+
+2.2 negativ
+Die Leute wollen endlich in das Haus (weil es kalt ist...), und der Mann mit dem Schlüssel kommt in aller Gemütlichkeit die Treppe herunter und denkt gar nicht daran, sich zu beeilen.
+
+https://de.hinative.com/questions/6088959
+`````
+
+`````
+Und wenn die Leute keine Arbeit mehr haben, nützen ihnen auch irgendwelche anderen Werte nichts mehr.
+And when people no longer have jobs, any other values no longer serve them.
+其他的价值对他们来说也没什么意义了。
+
+nutzen = nützen
+
+jmdm., einer Sache nutzen = jmdm., einer Sache Nutzen bringen, förderlich sein
+der Nutzen 益处，有益，收益
+förderlich 有益的
+
+Das kann uns nichts nutzen.
+That can't be of any use to us.
+那对我们没有任何用处。
+`````
+
+`````
+So undifferenziert kann man das doch nicht sehen.
+== Man soll das differenziert sehen.
+
+人们不应当如此不细致（粗略、笼统、武断）地看待这个问题。
+= 人们应当更细致地看待这个问题。
+
+他说这句话，想要表达的意思是
+He's saying that you should consider the matter to be a bit more nuanced and not black and white.
+nuanced ['nuːɑːnst] 细致入微的
+
+differenzieren 区别，区分
+differenziert 细致入微的
+fein bis ins Einzelne abgestuft, nuanciert
+精细分级到每个细节，细致入微
+
+谷歌翻译如下，感觉不怎么好
+You shouldn't look at it that indifferently.
+indifferently 漠不关心地，冷淡地，无动于衷地，若无其事地
+
+https://www.reddit.com/r/translator/comments/mvmytg/germanenglish_ich_kann_nicht_verstehen_was_bunte/
+`````
+
+`````
+Trotzdem ist einem das Problem mit der Umwelt schon klar.
+Nevertheless, the problem with the environment is already clear.
+
+Und es sollte jedem klar sein, dass wenn jemand aggressive Streifzüge macht, wird er eine Antwort bekommen.
+And it should be clear to everyone that if someone makes aggressive forays, they will get a response.
+der Streifzug 侵略
+foray [ˈfɔˌreɪ] 突袭;侵略;尝试;冒险
+
+jmdm. wird etw. klar
+= jmd. wird sich über etw. klar
+
+jmdm. ist etw. klar
+= sich über etwas im Klaren sein
+= sich über etwas klar sein
+`````
+
+`````
+Ja, aber so ist das einfach heutzutage, das ist eben unsere Zeit.
+Yes, but that's just how it is these days, that's our time.
+但现在就是这样，这就是我们的时代。
+似乎是说，认清现实吧，这个时代就是这样子，我们应该跟随时代潮流，顺应时代需要，不必过分强求。
+
+Man sollte daraus kein Problem machen.
+You shouldn't make it a problem.
+似乎是说，这是很正常的情况，顺其自然，适应就好，不要非把它当成一个问题。
+
+Buddha sagte: Hast du ein Problem, versuche es zu lösen. Kannst du es nicht lösen, dann mache kein Problem daraus.
+佛陀说：如果你有问题，就努力解决它。如果你不能解决它，就不要让它成为一个问题。
+问题若有办法解决，就不必担心；若没办法解决，担心也没有用。
+`````
+
 # 2_21.mp3 Modul 2 Aufgabe 5b
 <audio controls loop src="LB/2_21.mp3"></audio>
 
@@ -1615,8 +1750,72 @@ N: Nun, zum einen kann man Produkte tauschen. Ich hatte zum Beispiel meinen Gesc
 N: Also, das wäre wirklich nichts für mich. Ich will doch nicht den alten Kram von fremden Leuten haben. Außerdem macht es ja auch Spaß, sich etwas Schönes zu kaufen. Ich arbeite wirklich sehr viel und manchmal will ich mir einfach etwas gönnen, mir etwas Gutes tun, auch wenn ich es nicht unbedingt brauche und manchmal auch den einen oder anderen Fehlkauf mache.
 N: Ja, klar. Ich will ja auch nicht auf alles verzichten. Aber man soll eben erst überlegen und dann kaufen. Ich habe jedenfalls keine Lust, dauernd etwas umzutauschen, zurückzuschicken oder im Internet zu verkaufen. Da geht so viel Zeit drauf. Da mache ich lieber was mit meinen Freunden.
 N: Da haben Sie sicher recht. Aber manchmal ist es einfach eine schöne Abwechslung, wenn man sich etwas Neues kauft. Ich freue mich eben über ein neues Oberteil oder eine tolle Vase. Und meine Freunde freuen sich auch, wenn ich ihnen mal was Schönes mitbringe.
-N: Logisch. Ich will mir ja auch was leisten. Und auf ein Auto will ich gar nicht verzichten. Und irgendwann will ich mal eine eigene Wohnung mit schönen Möbeln haben. Und mit meinen Freunden gehe ich nicht gerade selten ins Fitness-Studio, was Leckeres essen oder in eine Bar zum Cocktailtrinken. Das ist ja auch alles Konsum.
+N: Logisch. Ich will mir ja auch was leisten. Und auf ein Auto will ich gar nicht verzichten. Und irgendwann will ich mal eine eigene Wohnung mit schönen Möbeln haben. Und mit meinen Freunden gehe ich nicht gerade selten ins Fitness-Studio, was Leckeres essen oder in eine Bar zum Cocktail trinken. Das ist ja auch alles Konsum.
 N: Ja, also, dazu muss ich aber noch sagen, dass ich …
+`````
+
+`````
+der Kram 废物，无用杂物
+sich(D.) gönnen 犒劳自己；不羡慕，不嫉妒(别人)
+
+der Fehlkauf 错买东西
+Kauf, dessen Gegenstand die Ansprüche des Käufers enttäuscht; unnötiger, zu hoch bezahlter Kauf
+
+der Oberteil 女性上衣
+die Vase 花瓶
+
+Ich will mir ja auch was leisten.
+I also want to afford something.
+我也想买点东西。
+
+nicht gerade selten = öfter
+`````
+
+`````
+umtauschen, eintauschen, tauschen, austauschen
+
+Umtauschen macht man z.B. mit gekauften Sachen die dir nicht gefallen, du gehst also zum Laden und tauschst die Sache um, bekommst dafür dann das Geld zurück, das du ausgegeben hast.
+
+Eintauschen tue ich beispielsweise Batterien, also ich ersetze die Alten durch die Neuen.(Obwohl man dafür auch austauschen benutzen kann.)
+
+Tauschen= fässt quasi alle Begriffe zusammen, kannst du für alle Situationen benutzen.
+
+Austauschen ist, wenn ich z.B einen roten Stift habe und meine Freundin einen blauen und ich mag aber Blau und sie Rot und wir dann wechseln. (Man kann austauschen auch benutzen wenn man über Sachen redet , z.B 'Wir haben uns gestern mit meiner Freundin über diesen interessanten Film ausgetauscht').
+`````
+
+`````
+Also, das wäre wirklich nichts für mich.
+Well, that really wouldn't be for me.
+嗯，那真的不适合我。
+
+Ich bin erfreut, aber das ist nichts für mich.
+I'm flattered, but that's not for me.
+我很高兴，但这不适合我。
+`````
+
+`````
+sich(D.) gönnen 犒劳自己；不羡慕，不嫉妒(别人)
+
+实际上我们可以把gönnen看成是一种geben，那么jm. etw. gönnen或sich etw. gönnen这两种用法结构理解起来就没有难度了。
+
+gönnen是一种geben，只不过这种“给”不是给了某东西，而是“给某事物附带的祝福”。所以jm. etw. gönnen是“见得别人好，在内心祝福，觉得别人应该得到”。知道了深层含义在具体语境下的浅层翻译就好办了，万变不离其宗。
+
+Ich gönne ihm die Reise. 
+他要去旅游了，我不眼红。
+
+而由上面派生而来的sich etw. gönnen也好理解了，是给自己某东西，并且是好东西，那就是“犒劳自己”。这个才是精准的含义，词典上的翻译虽然大方向没错，但是在具体语境中会错得离谱。
+
+Er gönnt sich ein Fläschen Wein.
+他拿一瓶红酒好好犒劳了一下自己。
+
+https://mp.weixin.qq.com/s?__biz=MzI4MTU5ODA1OQ==&mid=2247510903&idx=1&sn=85dcd14cf6734c34079523f94ff25ae3&chksm=eba42a73dcd3a3654092060c1211ff5cfb9649fec18230f48ebe28d90c6445191febb512ccb1&scene=27
+`````
+
+`````
+Da geht so viel Zeit drauf.
+So much time goes into it.
+
+什么语法？
 `````
 
 # 2_22.mp3 Modul 3 Aufgabe 1b
@@ -1646,6 +1845,10 @@ N: Natürlich, ich heiße Phillip Högel.
 N: Gut, Herr Högel, ich hoffe, dass ich wirklich schnell einen neuen Laptop bekomme, der dann auch funktioniert.
 N: Ja, Frau Stadler, wir kümmern uns darum und erledigen alles so schnell wie möglich. Vielen Dank für Ihren Anruf und auf Wiederhören.
 N: Auf Wiederhören.
+`````
+
+`````
+das Schnäppchen 廉价品，便宜货
 `````
 
 # 2_23.mp3 Modul 4 Aufgabe 5 Nummer 1
